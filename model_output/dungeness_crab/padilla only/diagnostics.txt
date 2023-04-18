@@ -1,0 +1,76 @@
+
+################################################################################
+# Gelman-Rubin Diagnostic
+################################################################################
+
+Generally the Gelman diagnostic should be < 1.05
+
+
+Out of 23 variables: 0 > 1.01
+
+                      
+0 > 1.05
+
+                      
+0 > 1.1
+
+
+The worst variables are:
+
+              Point est. Upper C.I.
+resid.prop[2]   1.005100   1.010680
+loglik[12]      1.003280   1.010479
+loglik[17]      1.002822   1.009555
+loglik[8]       1.002615   1.008993
+loglik[11]      1.002297   1.008360
+loglik[16]      1.002170   1.007978
+loglik[2]       1.001478   1.006695
+loglik[1]       1.001475   1.006630
+loglik[5]       1.001399   1.006226
+loglik[6]       1.001289   1.005996
+
+
+And here are the Gelman diagnostics for all variables:
+
+              Point est. Upper C.I.
+deviance       1.0000893   1.000931
+loglik[1]      1.0014749   1.006630
+loglik[10]     1.0004143   1.002671
+loglik[11]     1.0022968   1.008360
+loglik[12]     1.0032796   1.010479
+loglik[13]     1.0006617   1.003425
+loglik[14]     1.0011511   1.004447
+loglik[15]     1.0002876   1.002036
+loglik[16]     1.0021699   1.007978
+loglik[17]     1.0028223   1.009555
+loglik[18]     0.9999451   1.001139
+loglik[2]      1.0014784   1.006695
+loglik[3]      1.0009274   1.001919
+loglik[4]      1.0007874   1.003806
+loglik[5]      1.0013994   1.006226
+loglik[6]      1.0012885   1.005996
+loglik[7]      1.0001162   1.001363
+loglik[8]      1.0026150   1.008993
+loglik[9]      1.0005012   1.003022
+p.global[1]    1.0006145   1.003046
+p.global[2]    1.0006145   1.003046
+resid.prop[1]  1.0011602   1.001590
+resid.prop[2]  1.0051001   1.010680
+
+################################################################################
+# Geweke Diagnostic
+################################################################################
+
+The Geweke diagnostic is a standard z-score, so we'd expect 5% to be outside +/-1.96
+Number of variables outside +/-1.96 in each chain (out of 
+23
+):
+
+
+       Chain 1 Chain 2 Chain 3
+Geweke       7       1       1
+
+
+And here are the Geweke diagnostics for all variables:
+
+

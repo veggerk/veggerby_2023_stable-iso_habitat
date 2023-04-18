@@ -1,0 +1,25 @@
+
+#################################################################
+# Summary Statistics
+#################################################################
+
+DIC = 400.1497
+
+                                        Mean    SD  2.5%    5%   25%   50%   75%   95%
+Epsilon.1                              0.193 0.216 0.063 0.072 0.108 0.149 0.207 0.387
+Epsilon.2                              1.859 0.731 0.886 0.974 1.376 1.722 2.180 3.110
+p.Drayton Harbor.eelgrass_benthic      0.050 0.041 0.002 0.003 0.017 0.039 0.073 0.131
+p.Oyster Creek Samish.eelgrass_benthic 0.026 0.029 0.000 0.001 0.006 0.016 0.036 0.087
+p.Drayton Harbor.flipbag_benthic       0.098 0.068 0.004 0.009 0.044 0.087 0.139 0.221
+p.Oyster Creek Samish.flipbag_benthic  0.045 0.050 0.001 0.002 0.013 0.030 0.060 0.137
+p.Drayton Harbor.pelagic               0.852 0.066 0.708 0.737 0.813 0.857 0.900 0.952
+p.Oyster Creek Samish.pelagic          0.929 0.055 0.791 0.831 0.906 0.940 0.967 0.988
+                                       97.5%
+Epsilon.1                              0.545
+Epsilon.2                              3.504
+p.Drayton Harbor.eelgrass_benthic      0.152
+p.Oyster Creek Samish.eelgrass_benthic 0.105
+p.Drayton Harbor.flipbag_benthic       0.255
+p.Oyster Creek Samish.flipbag_benthic  0.174
+p.Drayton Harbor.pelagic               0.963
+p.Oyster Creek Samish.pelagic          0.993
