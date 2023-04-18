@@ -1,0 +1,894 @@
+sampleID,d15N,d13C,sampling_id,location,year,habitat_type,sample_category,length_mm,notes
+SI_81,10.123,-10.1635591956251,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,amphipods,NA,picked off of marina
+SI_98,9.47563636363637,-16.8459507945712,DH_2021_flipbags,Drayton Harbor,2021,flipbags,amphipods,NA,picked off marina
+SI_127,9.705090909,-15.55876618,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,amphipods,NA,picked from marina
+SI_138,9.51645454545455,-10.019534101616,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,amphipods,NA,picked from japonica
+SI_140,10.2604545454545,-9.83743111757287,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,amphipods,NA,picked from japonica
+SI_448,9.857,-10.7159569354113,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,amphipods,NA,about 15 small to medium
+SI_449,9.813,-11.7550200455401,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,amphipods,NA,about 5 large ones
+SI_102,10.2836363636364,-14.6993357760234,DH_2021_flipbags,Drayton Harbor,2021,flipbags,bubble snail,NA,NA
+SI_103,10.3206363636364,-14.9351647812894,DH_2021_flipbags,Drayton Harbor,2021,flipbags,bubble snail,NA,NA
+SI_104,10.1016363636364,-14.4876254250276,DH_2021_flipbags,Drayton Harbor,2021,flipbags,bubble snail,NA,NA
+SI_105,10.0536363636364,-16.203478911763,DH_2021_flipbags,Drayton Harbor,2021,flipbags,bubble snail,NA,NA
+SI_106,10.6836363636364,-15.61019442656,DH_2021_flipbags,Drayton Harbor,2021,flipbags,bubble snail,NA,NA
+SI_119,10.0082727272727,-11.8555389781317,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,bubble snail,NA,NA
+SI_120,9.39527272727273,-14.0105065953872,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,bubble snail,NA,NA
+SI_121,10.1362727272727,-12.8625231429433,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,bubble snail,NA,NA
+SI_122,9.41227272727273,-13.2622566966916,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,bubble snail,NA,NA
+SI_123,9.583090909,-13.94207977,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,bubble snail,NA,NA
+SI_346,11.0605454545455,-11.9715522379792,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_347,10.9425454545455,-13.2580806086779,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_348,10.7905454545455,-10.3690413043231,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_349,11.2105454545455,-13.3258223346056,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_350,9.07354545454545,-11.1294971338098,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_351,11.0175454545455,-12.4386847216797,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_352,10.5485454545455,-11.454331974911,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_353,10.5065454545455,-12.4680443612803,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_354,10.7915454545455,-13.2019570598517,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_355,9.53054545454546,-12.2601894491137,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_356,10.7705454545455,-12.819727539019,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_357,10.4275454545455,-13.5893022864054,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_358,10.2345454545455,-15.1369843821067,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_359,9.04054545454546,-11.0905190837239,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_360,10.3985454545455,-12.9835027612199,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_361,10.2105454545455,-12.0547798434025,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_362,10.8315454545455,-12.5694035978125,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,bubble snail,NA,NA
+SI_363,9.07854545454546,-9.053766380153,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_364,10.6125454545455,-8.34840187038169,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_365,9.50654545454545,-13.9980610636611,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_366,9.36654545454546,-10.0000593270157,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_367,10.9905454545455,-9.5537452051307,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_368,10.3625454545455,-8.74970877894503,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_369,10.6575454545455,-9.59104578318756,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_370,10.1015454545455,-9.09704204716432,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_371,9.72254545454546,-10.2351655442882,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_372,11.1805454545455,-9.58233846846255,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_373,9.56954545454546,-9.81391477871464,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_374,9.26454545454546,-11.6708769713756,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_375,10.0525454545455,-8.02514355206407,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_376,9.75754545454546,-9.67310933944914,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_377,11.1105454545455,-9.12625818434728,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_378,9.60554545454545,-9.66499278225433,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,bubble snail,NA,NA
+SI_429,9.265,-8.37710861063133,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,bubble snail,NA,NA
+SI_430,9.224,-8.68174386350806,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,bubble snail,NA,NA
+SI_431,10.703,-12.2668308467494,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,bubble snail,NA,NA
+SI_432,10.249,-11.968797886408,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,bubble snail,NA,NA
+SI_433,10.511,-12.0908719135465,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,bubble snail,NA,NA
+SI_434,9.357,-8.37216370850787,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,bubble snail,NA,NA
+SI_435,10.406,-11.2669721150386,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,bubble snail,NA,NA
+SI_436,8.881,-10.4536875790649,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,bubble snail,NA,NA
+SI_437,8.896,-10.0035543018034,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,bubble snail,NA,NA
+SI_438,8.907,-8.29409550950343,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,bubble snail,NA,NA
+SI_595,8.99518181818182,-13.3758377065116,DH_2022_general,Drayton Harbor,2022,flipbags,bubble snail,NA,NA
+SI_596,9.16718181818182,-12.6483468660668,DH_2022_general,Drayton Harbor,2022,flipbags,bubble snail,NA,NA
+SI_597,9.73763636363636,-15.6395436216412,DH_2022_general,Drayton Harbor,2022,flipbags,bubble snail,NA,NA
+SI_598,9.14163636363636,-14.485804540992,DH_2022_general,Drayton Harbor,2022,flipbags,bubble snail,NA,NA
+SI_599,9.49463636363636,-13.271709774355,DH_2022_general,Drayton Harbor,2022,flipbags,bubble snail,NA,NA
+SI_600,8.73963636363636,-14.1135016606379,DH_2022_general,Drayton Harbor,2022,flipbags,bubble snail,NA,NA
+SI_601,8.98563636363636,-14.6886469770572,DH_2022_general,Drayton Harbor,2022,flipbags,bubble snail,NA,NA
+SI_602,8.69763636363636,-14.5893593611611,DH_2022_general,Drayton Harbor,2022,flipbags,bubble snail,NA,NA
+SI_603,9.41063636363636,-14.5171688237084,DH_2022_general,Drayton Harbor,2022,flipbags,bubble snail,NA,NA
+SI_604,9.81763636363636,-13.5006603205957,DH_2022_general,Drayton Harbor,2022,flipbags,bubble snail,NA,NA
+SI_605,8.42563636363636,-11.7071854556453,DH_2022_general,Drayton Harbor,2022,eelgrass,bubble snail,NA,NA
+SI_606,8.64463636363636,-10.9780818293878,DH_2022_general,Drayton Harbor,2022,eelgrass,bubble snail,NA,NA
+SI_607,9.30763636363636,-11.0241231447621,DH_2022_general,Drayton Harbor,2022,eelgrass,bubble snail,NA,NA
+SI_608,8.63463636363636,-11.0469670333999,DH_2022_general,Drayton Harbor,2022,eelgrass,bubble snail,NA,NA
+SI_609,8.69663636363636,-9.96106495036399,DH_2022_general,Drayton Harbor,2022,eelgrass,bubble snail,NA,NA
+SI_610,8.41763636363636,-11.2564559236917,DH_2022_general,Drayton Harbor,2022,eelgrass,bubble snail,NA,NA
+SI_611,8.68363636363636,-10.6519199249226,DH_2022_general,Drayton Harbor,2022,eelgrass,bubble snail,NA,NA
+SI_612,9.29963636363636,-10.0212686499722,DH_2022_general,Drayton Harbor,2022,eelgrass,bubble snail,NA,NA
+SI_613,8.25663636363636,-11.3203878018069,DH_2022_general,Drayton Harbor,2022,eelgrass,bubble snail,NA,NA
+SI_614,8.94463636363636,-11.8413428194901,DH_2022_general,Drayton Harbor,2022,eelgrass,bubble snail,NA,NA
+SI_12b,8.79681818181818,-19.0190671957906,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,clam gut,NA,NA
+SI_13b,8.54981818181818,-19.012110694866,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,clam gut,NA,NA
+SI_14b,8.59981818181818,-19.010573912837,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,clam gut,NA,NA
+SI_15b,8.54681818181818,-18.6964147540259,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,clam gut,NA,NA
+SI_16b,8.78781818181818,-19.0815343541324,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,clam gut,NA,NA
+SI_92b,8.11663636363636,-17.2678794701101,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,clam gut,NA,NA
+SI_93b,8.95163636363636,-15.8371447086622,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,clam gut,NA,NA
+SI_94b,8.26163636363636,-16.4663863321032,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,clam gut,NA,NA
+SI_95b,8.47763636363636,-16.392677556086,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,clam gut,NA,NA
+SI_96b,8.42463636363636,-16.8957860968992,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,clam gut,NA,NA
+SI_107b,8.80763636363636,-17.9167013440373,DH_2021_flipbags,Drayton Harbor,2021,flipbags,clam gut,NA,NA
+SI_108b,9.14127272727273,-17.483825254974,DH_2021_flipbags,Drayton Harbor,2021,flipbags,clam gut,NA,NA
+SI_109b,8.88127272727273,-18.170464782133,DH_2021_flipbags,Drayton Harbor,2021,flipbags,clam gut,NA,NA
+SI_110b,8.68527272727273,-18.8318729802048,DH_2021_flipbags,Drayton Harbor,2021,flipbags,clam gut,NA,NA
+SI_111b,7.42127272727273,-19.9770733606002,DH_2021_flipbags,Drayton Harbor,2021,flipbags,clam gut,NA,NA
+SI_128b,8.591090909,-17.85076528,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,clam gut,NA,NA
+SI_129b,9.037090909,-18.07524809,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,clam gut,NA,NA
+SI_130b,8.823090909,-17.86759205,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,clam gut,NA,NA
+SI_131b,8.499090909,-18.06072504,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,clam gut,NA,NA
+SI_132b,8.824090909,-17.31970612,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,clam gut,NA,NA
+SI_12a,11.7778181818182,-17.5953412203914,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,clam muscle,NA,NA
+SI_13a,11.5038181818182,-17.3264082704272,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,clam muscle,NA,NA
+SI_14a,11.2508181818182,-17.4886036730245,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,clam muscle,NA,NA
+SI_15a,10.8798181818182,-17.118312031515,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,clam muscle,NA,NA
+SI_16a,11.2588181818182,-17.6528449356863,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,clam muscle,NA,NA
+SI_92a,11.1236363636364,-16.110024804049,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,clam muscle,NA,NA
+SI_93a,12.3316363636364,-14.5195026125884,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,clam muscle,NA,NA
+SI_94a,10.7976363636364,-16.0524834463794,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,clam muscle,NA,NA
+SI_95a,11.7046363636364,-16.0641494667904,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,clam muscle,NA,NA
+SI_96a,11.6066363636364,-16.0986556472838,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,clam muscle,NA,NA
+SI_107a,12.4286363636364,-16.0815388770006,DH_2021_flipbags,Drayton Harbor,2021,flipbags,clam muscle,NA,NA
+SI_108a,11.1592727272727,-16.2205281691806,DH_2021_flipbags,Drayton Harbor,2021,flipbags,clam muscle,NA,NA
+SI_109a,11.3262727272727,-16.2585986512391,DH_2021_flipbags,Drayton Harbor,2021,flipbags,clam muscle,NA,NA
+SI_110a,10.5462727272727,-16.3811135683311,DH_2021_flipbags,Drayton Harbor,2021,flipbags,clam muscle,NA,NA
+SI_111a,8.70827272727273,-17.2837783580011,DH_2021_flipbags,Drayton Harbor,2021,flipbags,clam muscle,NA,NA
+SI_128a,10.74309091,-16.03325691,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,clam muscle,NA,NA
+SI_129a,11.32509091,-16.0748011,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,clam muscle,NA,NA
+SI_130a,11.02909091,-16.10532342,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,clam muscle,NA,NA
+SI_131a,10.55809091,-16.08491641,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,clam muscle,NA,NA
+SI_132a,11.21509091,-15.98256741,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,clam muscle,NA,NA
+SI_141a,13.0744545454545,-14.4385560758016,DH_2021_general,Drayton Harbor,2021,general,dungeness crab,149,NA
+SI_142a,12.8574545454545,-15.2793074077027,DH_2021_general,Drayton Harbor,2021,general,dungeness crab,165,NA
+SI_147a,14.288454545454501,-11.2030048690709,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,dungeness crab,105,NA
+SI_148a,14.2214545454545,-11.2364817829857,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,dungeness crab,92,NA
+SI_149a,14.2154545454545,-9.13195203006853,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,dungeness crab,98,"stomach empty, no stomach sample"
+SI_150a,13.9504545454545,-12.0208625879557,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,dungeness crab,89,"stomach empty, no stomach sample"
+SI_151a,14.0394545454545,-11.8229571348179,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,dungeness crab,79,NA
+SI_162a,14.1346363636364,-11.2454497899389,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,dungeness crab,90,NA
+SI_163a,13.7306363636364,-11.5792098698439,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,dungeness crab,92,NA
+SI_164a,13.0526363636364,-11.9562068869338,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,dungeness crab,83,NA
+SI_165a,13.7606363636364,-13.2208206843371,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,dungeness crab,83,NA
+SI_166a,13.7836363636364,-12.9949011685185,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,dungeness crab,103,NA
+SI_165,12.7092727272727,-13.1900904205042,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,150,#02 labeled on collection sheet and baggie
+SI_166,13.3662727272727,-10.2774162260973,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,80,#03 labeled on collection sheet and baggie
+SI_167,13.8782727272727,-9.84937483307877,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,75,#04 labeled on collection sheet and baggie
+SI_168,13.5962727272727,-12.4786738050927,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,60,#05 labeled on collection sheet and baggie
+SI_169,13.0302727272727,-11.9202547015366,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,155,#06 labeled on collection sheet and baggie
+SI_170,12.4282727272727,-13.6737770016259,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,170,#07 labeled on collection sheet and baggie
+SI_171,13.9552727272727,-10.230411225699,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,80,#08 labeled on collection sheet and baggie
+SI_172,12.8242727272727,-12.1007786537486,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,150,#09 labeled on collection sheet and baggie
+SI_173,12.4342727272727,-12.7156500297943,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,160,#10 labeled on collection sheet and baggie
+SI_174,12.3632727272727,-12.6029159979143,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,155,#11 labeled on collection sheet and baggie
+SI_175,13.2242727272727,-11.0698089861989,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,135,#12 labeled on collection sheet and baggie
+SI_176,12.3482727272727,-11.8838734834484,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,165,#13 labeled on collection sheet and baggie
+SI_177,13.0072727272727,-12.5805449388482,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,165,#14 labeled on collection sheet and baggie
+SI_178,11.9672727272727,-12.1977486743502,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,150,#15 labeled on collection sheet and baggie
+SI_180,13.1972727272727,-11.6073465547114,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,65,#17 labeled on collection sheet and baggie
+SI_181,13.6022727272727,-11.5594681740727,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,95,#18 labeled on collection sheet and baggie
+SI_182,13.4102727272727,-8.92980871125741,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,85,#19 labeled on collection sheet and baggie
+SI_183,13.5902727272727,-10.0527590915061,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,75,#20 labeled on collection sheet and baggie
+SI_184,14.0592727272727,-11.6556764893446,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,70,#21 labeled on collection sheet and baggie
+SI_185,13.4072727272727,-9.31352102361588,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,80,#22 labeled on collection sheet and baggie
+SI_186,13.1682727272727,-10.9485981616492,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,75,#23 labeled on collection sheet and baggie
+SI_187,12.9292727272727,-11.0662970449623,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,60,#24 labeled on collection sheet and baggie
+SI_188,13.1818181818182,-12.2426234050358,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,55,#25 labeled on collection sheet and baggie
+SI_189,12.6748181818182,-13.3856118120676,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,55,#26 labeled on collection sheet and baggie
+SI_190,13.9678181818182,-11.9717888200953,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,65,#27 labeled on collection sheet and baggie
+SI_191,12.7868181818182,-13.2682586246246,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,50,#28 labeled on collection sheet and baggie
+SI_192,12.8088181818182,-13.1134199667982,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,45,#29 labeled on collection sheet and baggie
+SI_193,12.7548181818182,-11.7456985943124,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,70,#30 labeled on collection sheet and baggie
+SI_194,12.9458181818182,-13.4089020960376,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,60,#31 labeled on collection sheet and baggie
+SI_195,13.0678181818182,-11.9403293731935,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,70,#32 labeled on collection sheet and baggie
+SI_196,13.2608181818182,-12.6251907440366,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,105,#33 labeled on collection sheet and baggie
+SI_197,13.4398181818182,-12.3547302498694,OCS_2022_general,Oyster Creek Samish,2022,general,dungeness crab,NA,length not recorded
+SI_439,13.381,-11.1477542394611,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,dungeness crab,70,NA
+SI_440,13.248,-11.6256803799905,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,dungeness crab,70,NA
+SI_441,13.584,-11.2106225578749,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,dungeness crab,60,NA
+SI_442,12.855,-11.5299980128101,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,dungeness crab,80,NA
+SI_443,13.712,-11.33459007528,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,dungeness crab,85,NA
+SI_444,13.388,-10.9089350999876,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,dungeness crab,75,NA
+SI_445,13.338,-10.9155298977503,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,dungeness crab,70,NA
+SI_446,13.715,-10.6259136227672,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,dungeness crab,70,NA
+SI_579,12.9581818181818,-15.4359399392709,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,150,NA
+SI_580,12.4231818181818,-13.7829740663597,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,115,NA
+SI_581,12.0531818181818,-14.5363599206522,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,100,NA
+SI_582,11.1921818181818,-17.3870743898695,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,35,NA
+SI_583,11.9531818181818,-16.416270690298,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,30,NA
+SI_584,12.0041818181818,-14.2393608640279,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,25,NA
+SI_585,11.2801818181818,-15.904433284617,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,25,NA
+SI_586,11.2761818181818,-16.6944762127674,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,25,NA
+SI_587,11.1791818181818,-17.7468477783713,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,15,NA
+SI_588,11.8341818181818,-15.4111818473326,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,15,NA
+SI_589,11.6661818181818,-15.5551191503061,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,10,NA
+SI_590,11.9041818181818,-14.686172568328,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,10,NA
+SI_591,11.6501818181818,-16.1195765567273,DH_2022_general,Drayton Harbor,2022,general,dungeness crab,10,NA
+SI_141b,10.4284545454545,-12.8114505261617,DH_2021_general,Drayton Harbor,2021,general,dungeness gut,149,just mussel shells
+SI_142b,8.51145454545454,-4.87471844136874,DH_2021_general,Drayton Harbor,2021,general,dungeness gut,165,just mussel shells
+SI_147b,11.3204545454545,-14.4459543217,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,dungeness gut,105,NA
+SI_148b,11.8624545454545,-14.4713153588648,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,dungeness gut,92,NA
+SI_151b,12.8024545454545,-13.2723110957156,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,dungeness gut,79,NA
+SI_163b,11.5066363636364,-15.4122752021318,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,dungeness gut,92,NA
+SI_166b,10.4916363636364,-16.2261189108501,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,dungeness gut,103,NA
+SI_230,12.4819090909091,-10.7380005211266,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,29,NA
+SI_231,12.7399090909091,-12.4330874407537,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,32,NA
+SI_232,12.5589090909091,-12.2700373855791,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,30,NA
+SI_233,13.1099090909091,-7.42480689047454,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,47,NA
+SI_234,12.7249090909091,-11.3708482403173,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,36,NA
+SI_235,12.8329090909091,-9.48246648854482,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,33,NA
+SI_236,12.8024545454545,-14.3889433946733,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,25,NA
+SI_237,12.7154545454545,-14.0119094915135,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,25,NA
+SI_238,12.6234545454545,-14.3208197606566,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,27,NA
+SI_239,12.4444545454545,-14.188793658516,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,34,NA
+SI_240,12.6444545454545,-14.4180123865916,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,30,NA
+SI_241,12.7424545454545,-14.4142248555026,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,30,NA
+SI_242,12.7144545454545,-14.3972473317021,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,32,NA
+SI_243,12.8514545454545,-13.4147335895919,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,33,NA
+SI_244,12.4374545454545,-14.7440613535157,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,32,NA
+SI_245,12.5084545454545,-13.6316719715824,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,35,NA
+SI_246,12.7074545454545,-14.2378671435057,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,36,NA
+SI_247,12.6784545454545,-14.1005620995965,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,37,NA
+SI_248,12.6254545454545,-13.9773470696409,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,37,NA
+SI_249,12.7834545454545,-14.4876487515112,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,39,NA
+SI_250,12.7354545454545,-14.2653779537923,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,37,NA
+SI_251,12.5684545454545,-13.4005808038944,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,36,NA
+SI_252,12.6884545454545,-14.183615983821,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,38,NA
+SI_253,12.6494545454545,-14.3246242299765,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,43,NA
+SI_254,13.0374545454545,-14.3374712477565,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,40,NA
+SI_255,12.4354545454545,-14.4814937066438,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,46,NA
+SI_256,13.9004545454545,-13.1644894931006,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,69,NA
+SI_257,13.3774545454545,-13.4969699134188,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,59,NA
+SI_258,13.3294545454545,-14.3456411175872,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,71,NA
+SI_259,12.8174545454545,-13.5369754795944,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,68,NA
+SI_260,13.2763636363636,-12.9345710563668,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,45,NA
+SI_261,12.5543636363636,-13.3735812097426,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,34,NA
+SI_262,12.4443636363636,-14.0153066522197,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,36,NA
+SI_263,12.8833636363636,-13.7801952756824,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,41,NA
+SI_264,13.0263636363636,-14.1659558760057,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,39,NA
+SI_265,12.9963636363636,-14.3326922693951,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,50,NA
+SI_266,13.2383636363636,-13.0451274066725,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,49,NA
+SI_290,12.8407272727273,-13.8562884646708,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,30,NA
+SI_450,13.593,-11.8283058770331,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,English sole,65,NA
+SI_451,13.899,-10.8283761821263,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,English sole,65,NA
+SI_452,13.0851818181818,-11.6755638639737,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,English sole,56,NA
+SI_453,13.1721818181818,-12.1864431390109,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,English sole,50,NA
+SI_454,13.4621818181818,-11.9386300818731,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,English sole,64,NA
+SI_455,13.6581818181818,-12.0309668269463,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,English sole,66,NA
+SI_536,13.2294545454545,-13.6199103132984,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,60,NA
+SI_537,13.2134545454545,-14.62760232032,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,78,NA
+SI_538,12.6004545454545,-14.8948108224268,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,64,NA
+SI_539,12.6394545454545,-14.8995277149956,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,55,NA
+SI_540,11.7344545454545,-16.1672788787889,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,76,NA
+SI_541,12.4674545454545,-15.1170817650523,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,50,NA
+SI_542,12.5684545454545,-14.8442021305285,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,55,NA
+SI_543,13.2394545454545,-14.1172968204849,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,76,NA
+SI_544,12.6564545454545,-14.7017525172382,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,75,NA
+SI_545,13.5674545454545,-12.3293731564526,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,64,NA
+SI_546,13.2344545454545,-13.8611188041524,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,70,NA
+SI_547,13.3794545454545,-12.9706959786735,OCS_2022_general,Oyster Creek Samish,2022,general,English sole,75,NA
+SI_594,8.82618181818182,-19.1056815371015,DH_2022_general,Drayton Harbor,2022,flipbags,filamentous algae,NA,NA
+SI_164,12.9872727272727,-10.7655412095523,OCS_2022_general,Oyster Creek Samish,2022,general,graceful crab,50,#01 labeled on collection sheet and baggie
+SI_179,12.6142727272727,-10.3552239620324,OCS_2022_general,Oyster Creek Samish,2022,general,graceful crab,40,#16 labeled on collection sheet and baggie
+SI_578,11.8701818181818,-13.4289102848197,DH_2022_general,Drayton Harbor,2022,general,graceful crab,70,NA
+SI_68a,14.0293636363636,-12.882726698497,OCS_2021_general,Oyster Creek Samish,2021,general,graceful crab,89,"only 1 claw,stomach empty, no sample"
+SI_69a,13.5453636363636,-12.6912876717726,OCS_2021_general,Oyster Creek Samish,2021,general,graceful crab,86,"stomach empty, no sample"
+SI_70a,13.3413636363636,-13.0489650896318,OCS_2021_general,Oyster Creek Samish,2021,general,graceful crab,76,NA
+SI_72a,13.265,-12.8591436837441,OCS_2021_general,Oyster Creek Samish,2021,general,graceful crab,70,"stomach empty, no sample"
+SI_143a,13.4484545454545,-14.0165309103711,DH_2021_general,Drayton Harbor,2021,general,graceful crab,108,NA
+SI_144a,11.8884545454545,-15.1918778746529,DH_2021_general,Drayton Harbor,2021,general,graceful crab,73,stomach empty
+SI_145a,12.3474545454545,-13.6413788131871,DH_2021_general,Drayton Harbor,2021,general,graceful crab,73,"2 were salvaged from seagull kills, only claws and top carapace remain"
+SI_146a,12.3384545454545,-16.0781032965992,DH_2021_general,Drayton Harbor,2021,general,graceful crab,70,"2 were salvaged from seagull kills, only claws and top carapace remain"
+SI_70b,10.0663636363636,-12.5124855840364,OCS_2021_general,Oyster Creek Samish,2021,general,graceful crab gut,76,NA
+SI_71b,10.388,-17.8331334867164,OCS_2021_general,Oyster Creek Samish,2021,general,graceful crab gut,76,"no claws, no sample"
+SI_143b,10.2744545454545,-16.6791714467659,DH_2021_general,Drayton Harbor,2021,general,graceful crab gut,108,NA
+SI_87,11.292,-8.01507142778939,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,Japanese mud snail,NA,NA
+SI_88,11.066,-7.64616780722423,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,Japanese mud snail,NA,NA
+SI_89,10.554,-8.26293407882519,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,Japanese mud snail,NA,NA
+SI_90,11.7586363636364,-7.81450574108162,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,Japanese mud snail,NA,NA
+SI_91,10.7566363636364,-7.3414545512509,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,Japanese mud snail,NA,NA
+SI_379,12.0305454545455,-9.9029492579641,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_380,12.0341818181818,-9.62734681792001,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_381,12.1501818181818,-9.44320955573493,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_382,11.8601818181818,-9.75746048683038,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_383,11.6321818181818,-10.3477246536001,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_384,11.9411818181818,-9.94842249399483,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_385,11.7351818181818,-10.0627527208041,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_386,11.7181818181818,-10.0760652843684,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_387,11.7641818181818,-9.6532612484555,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_388,11.5161818181818,-9.34482692145862,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_389,11.5691818181818,-10.4958313807142,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_390,11.3321818181818,-10.1663947890572,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_391,11.4461818181818,-10.0713247918566,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_392,11.2871818181818,-11.085871143992,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_393,11.7331818181818,-9.96054575536817,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_394,11.5201818181818,-10.6154777213843,OCS_2022_eelgrass,Oyster Creek Samish,2022,eelgrass,Japanese mud snail,NA,NA
+SI_395,11.2881818181818,-10.159087502963,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_396,10.7381818181818,-9.84096344196428,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_397,9.92418181818182,-13.4066245049692,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_398,11.4321818181818,-11.065712953462,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_399,11.1421818181818,-10.1985486410972,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_400,10.5801818181818,-11.2516451932218,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_401,10.7471818181818,-10.3273613497368,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_402,10.6161818181818,-10.5056713700974,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_403,11.2791818181818,-11.691890723975,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_404,10.9572727272727,-11.5659649964681,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_405,10.6452727272727,-12.4451785898458,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_406,10.7682727272727,-11.7961169480619,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_407,10.6792727272727,-12.0626873514795,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_408,10.7052727272727,-12.0040234428104,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_409,11.1812727272727,-12.2495394384947,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_410,10.6822727272727,-11.2960642999477,OCS_2022_flipbags,Oyster Creek Samish,2022,flipbags,Japanese mud snail,NA,NA
+SI_419,11.3332727272727,-8.31168345814631,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,Japanese mud snail,NA,NA
+SI_420,11.2352727272727,-9.05472796516132,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,Japanese mud snail,NA,NA
+SI_421,10.9682727272727,-8.70836638040535,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,Japanese mud snail,NA,NA
+SI_422,11.6072727272727,-8.02556600336283,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,Japanese mud snail,NA,NA
+SI_423,11.2892727272727,-8.33727051407477,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,Japanese mud snail,NA,NA
+SI_424,11.1462727272727,-9.74962167805788,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,Japanese mud snail,NA,NA
+SI_425,11.8472727272727,-8.47353083639486,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,Japanese mud snail,NA,NA
+SI_426,11.6632727272727,-9.28455227700434,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,Japanese mud snail,NA,NA
+SI_427,11.4422727272727,-9.07764882564665,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,Japanese mud snail,NA,NA
+SI_428,11.737,-8.41523959878411,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,Japanese mud snail,NA,NA
+SI_06,8.93881818181818,-10.6000461125618,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,japonica eelgrass,NA,NA
+SI_27,9.75663636363636,-10.3742305976977,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,japonica eelgrass,NA,NA
+SI_44,8.09763636363637,-9.9567166936326,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,japonica eelgrass,NA,NA
+SI_55,8.88536363636364,-10.4394839751857,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,japonica eelgrass,NA,NA
+SI_79,7.65,-11.3601514392896,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,japonica eelgrass,NA,NA
+SI_80,8.053,-9.43219019173404,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,marina eelgrass,NA,NA
+SI_99,6.69763636363636,-9.69165071185082,DH_2021_flipbags,Drayton Harbor,2021,flipbags,marina eelgrass,NA,NA
+SI_125,7.715090909,-10.14098827,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,marina eelgrass,NA,NA
+SI_592,7.51018181818182,-9.70250369120803,DH_2022_general,Drayton Harbor,2022,eelgrass,marina eelgrass,NA,NA
+SI_593,6.67418181818182,-10.0542562428617,DH_2022_general,Drayton Harbor,2022,flipbags,marina eelgrass,NA,NA
+SI_100,8.60663636363637,-16.2877826924406,DH_2021_flipbags,Drayton Harbor,2021,flipbags,marina epiphytes,NA,NA
+SI_126,8.620090909,-13.73714069,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,marina epiphytes,NA,NA
+SI_139,9.74845454545454,-13.7055318695668,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,marina epiphytes,NA,NA
+SI_07,10.9628181818182,-11.2287213151779,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,Japanese mud snail,NA,NA
+SI_08,11.5328181818182,-10.83612704744,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,Japanese mud snail,NA,NA
+SI_09,11.2588181818182,-10.8723808382466,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,Japanese mud snail,NA,NA
+SI_10,11.4298181818182,-10.667089455292,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,Japanese mud snail,NA,NA
+SI_11,10.9628181818182,-11.2445819235908,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,Japanese mud snail,NA,NA
+SI_28,10.7636363636364,-9.52609840690826,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,Japanese mud snail,NA,NA
+SI_29,11.1946363636364,-9.43808492548844,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,Japanese mud snail,NA,NA
+SI_30,11.0986363636364,-9.66212188651562,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,Japanese mud snail,NA,NA
+SI_31,11.3396363636364,-10.0301206890484,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,Japanese mud snail,NA,NA
+SI_32,10.2616363636364,-10.4243753167674,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,Japanese mud snail,NA,NA
+SI_45,11.0036363636364,-11.1999663049801,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,Japanese mud snail,NA,NA
+SI_46,12.0166363636364,-11.5671422184763,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,Japanese mud snail,NA,NA
+SI_47,11.2466363636364,-10.2187483901539,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,Japanese mud snail,NA,NA
+SI_48,11.5616363636364,-12.4196571721882,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,Japanese mud snail,NA,NA
+SI_49,10.7356363636364,-11.5217875911745,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,Japanese mud snail,NA,NA
+SI_58,10.7943636363636,-11.624556704323,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,Japanese mud snail,NA,NA
+SI_59,10.7743636363636,-10.6802997839911,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,Japanese mud snail,NA,NA
+SI_60,9.82736363636364,-11.2933748146704,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,Japanese mud snail,NA,NA
+SI_61,10.5353636363636,-11.0636569396704,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,Japanese mud snail,NA,NA
+SI_62,10.4753636363636,-10.9298990887596,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,Japanese mud snail,NA,NA
+SI_17b,8.17481818181818,-19.863754004028,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,oyster gut,NA,NA
+SI_18b,8.24063636363636,-20.207689795451,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,oyster gut,NA,NA
+SI_19b,8.45063636363636,-20.4240347672704,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,oyster gut,NA,NA
+SI_20b,8.34363636363636,-19.9645847844646,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,oyster gut,NA,NA
+SI_21b,8.46163636363636,-19.9786317531547,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,oyster gut,NA,NA
+SI_33b,8.35163636363636,-20.0952692946684,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,oyster gut,NA,NA
+SI_34b,8.36063636363636,-20.63263010872,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,oyster gut,NA,NA
+SI_35b,8.02463636363636,-20.2051724947057,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,oyster gut,NA,NA
+SI_36b,8.58763636363637,-20.4117363951649,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,oyster gut,NA,NA
+SI_37b,8.90963636363636,-19.8387740905316,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,oyster gut,NA,NA
+SI_50b,8.64063636363636,-19.8590657682373,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,oyster gut,NA,NA
+SI_51b,8.33863636363636,-19.811603949227,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,oyster gut,NA,NA
+SI_52b,8.28663636363637,-19.667523160001,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,oyster gut,NA,NA
+SI_53b,8.42663636363636,-20.1023730195689,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,oyster gut,NA,NA
+SI_54b,9.35436363636364,-18.7896357158839,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,oyster gut,NA,NA
+SI_63b,8.11436363636364,-19.8389707058034,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,oyster gut,NA,NA
+SI_64b,8.28736363636364,-20.0259324952517,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,oyster gut,NA,NA
+SI_65b,8.28436363636364,-19.629454884936,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,oyster gut,NA,NA
+SI_66b,8.36536363636364,-20.2969508962251,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,oyster gut,NA,NA
+SI_67b,8.10236363636364,-19.7333492373246,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,oyster gut,NA,NA
+SI_73b,7.583,-19.9518254807987,PBR_2021_eelgrass_gravel,Padilla Bay Reserve,2021,eelgrass,oyster gut,NA,"2 oysters picked up near a house, bagged separately"
+SI_74b,7.537,-20.1742161442238,PBR_2021_eelgrass_gravel,Padilla Bay Reserve,2021,eelgrass,oyster gut,NA,"2 oysters picked up near a house, bagged separately"
+SI_75b,7.601,-19.9418569943108,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,oyster gut,NA,NA
+SI_76b,7.568,-20.3539771789305,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,oyster gut,NA,NA
+SI_77b,7.475,-19.7732506349124,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,oyster gut,NA,NA
+SI_112b,7.33827272727273,-19.2630702421822,DH_2021_flipbags,Drayton Harbor,2021,flipbags,oyster gut,NA,NA
+SI_113b,7.56527272727273,-19.3528241308895,DH_2021_flipbags,Drayton Harbor,2021,flipbags,oyster gut,NA,NA
+SI_114b,7.31127272727273,-19.3859556377683,DH_2021_flipbags,Drayton Harbor,2021,flipbags,oyster gut,NA,NA
+SI_115b,7.50427272727273,-19.2964054329695,DH_2021_flipbags,Drayton Harbor,2021,flipbags,oyster gut,NA,NA
+SI_116b,7.33127272727273,-19.0380341810276,DH_2021_flipbags,Drayton Harbor,2021,flipbags,oyster gut,NA,NA
+SI_133b,7.683090909,-19.12592325,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,oyster gut,NA,NA
+SI_134b,7.997090909,-18.51950192,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,oyster gut,NA,NA
+SI_135b,7.190090909,-19.50034887,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,oyster gut,NA,NA
+SI_136b,7.430090909,-18.52747662,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,oyster gut,NA,NA
+SI_137b,8.42845454545455,-18.4008007340086,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,oyster gut,NA,NA
+SI_17a,11.3138181818182,-18.8388157120472,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,oyster muscle,NA,NA
+SI_18a,10.9348181818182,-19.2561690676333,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,oyster muscle,NA,NA
+SI_19a,11.5146363636364,-19.2265163482468,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,oyster muscle,NA,NA
+SI_20a,11.6256363636364,-18.4434090730239,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,oyster muscle,NA,NA
+SI_21a,11.2176363636364,-18.781158216843,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,oyster muscle,NA,NA
+SI_33a,10.7986363636364,-19.1722302156838,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,oyster muscle,NA,NA
+SI_34a,11.3106363636364,-19.4408808959749,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,oyster muscle,NA,NA
+SI_35a,10.7716363636364,-19.0967837031246,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,oyster muscle,NA,NA
+SI_36a,11.1606363636364,-19.2688037096535,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,oyster muscle,NA,NA
+SI_37a,11.0446363636364,-18.9654702409064,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,oyster muscle,NA,NA
+SI_50a,11.3826363636364,-19.1268262361443,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,oyster muscle,NA,NA
+SI_51a,13.9726363636364,-19.0592899966841,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,oyster muscle,NA,NA
+SI_52a,11.0656363636364,-19.3290339137863,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,oyster muscle,NA,NA
+SI_53a,11.4346363636364,-19.136049324901,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,oyster muscle,NA,NA
+SI_54a,11.3783636363636,-18.2034138288423,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,oyster muscle,NA,NA
+SI_63a,11.0893636363636,-18.7200410134448,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,oyster muscle,NA,NA
+SI_64a,11.0993636363636,-19.9572787373061,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,oyster muscle,NA,NA
+SI_65a,11.4073636363636,-18.8615721525131,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,oyster muscle,NA,NA
+SI_66a,11.4843636363636,-18.7173740449546,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,oyster muscle,NA,NA
+SI_67a,11.3963636363636,-18.634691555317,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,oyster muscle,NA,NA
+SI_73a,10.99,-18.3278267506566,PBR_2021_eelgrass_gravel,Padilla Bay Reserve,2021,eelgrass,oyster muscle,NA,"2 oysters picked up near a house, bagged separately"
+SI_74a,11.345,-18.2593426782849,PBR_2021_eelgrass_gravel,Padilla Bay Reserve,2021,eelgrass,oyster muscle,NA,"2 oysters picked up near a house, bagged separately"
+SI_75a,12.028,-18.1508597840385,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,oyster muscle,NA,NA
+SI_76a,10.257,-18.454767441934,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,oyster muscle,NA,NA
+SI_77a,10.929,-17.9093803190972,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,oyster muscle,NA,NA
+SI_112a,10.1662727272727,-17.7366638783841,DH_2021_flipbags,Drayton Harbor,2021,flipbags,oyster muscle,NA,NA
+SI_113a,10.7022727272727,-17.9371072263491,DH_2021_flipbags,Drayton Harbor,2021,flipbags,oyster muscle,NA,NA
+SI_114a,10.3982727272727,-17.7272952532082,DH_2021_flipbags,Drayton Harbor,2021,flipbags,oyster muscle,NA,NA
+SI_115a,10.3082727272727,-17.6455197286934,DH_2021_flipbags,Drayton Harbor,2021,flipbags,oyster muscle,NA,NA
+SI_116a,10.5032727272727,-17.2449839698575,DH_2021_flipbags,Drayton Harbor,2021,flipbags,oyster muscle,NA,NA
+SI_133a,10.42509091,-17.59881485,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,oyster muscle,NA,NA
+SI_134a,11.10109091,-16.83291582,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,oyster muscle,NA,NA
+SI_135a,9.495090909,-18.12641113,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,oyster muscle,NA,NA
+SI_136a,10.53609091,-17.25363139,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,oyster muscle,NA,NA
+SI_137a,11.12709091,-17.0347873,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,oyster muscle,NA,NA
+SI_38,10.1996363636364,-18.9315047232282,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,sea lettuce,NA,NA
+SI_78,8.885,-9.3771600379296,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,sea lettuce,NA,NA
+SI_101,8.59063636363636,-11.4765521073587,DH_2021_flipbags,Drayton Harbor,2021,flipbags,sea lettuce,NA,NA
+SI_124,7.979090909,-15.12180279,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,sea lettuce,NA,NA
+SI_152,14.3214545454545,-9.40489592559291,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,shiner perch,78,NA
+SI_153,14.5464545454545,-12.5341107471247,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,shiner perch,76,NA
+SI_154,14.2444545454545,-12.641179939986,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,shiner perch,75,NA
+SI_155,14.5626363636364,-13.2100048481885,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,shiner perch,78,NA
+SI_156,14.3976363636364,-12.9765937214473,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,shiner perch,78,NA
+SP_82,13.0706363636364,-12.7573201090397,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,50,"no oyster, dense eelgrass"
+SP_83,13.6526363636364,-11.9609894782459,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,58,"no oyster, dense eelgrass"
+SP_84,13.9126363636364,-12.8075812834685,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,60,"no oyster, dense eelgrass"
+SP_85,13.4696363636364,-12.159680950267,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,61,"no oyster, dense eelgrass"
+SP_86,13.2756363636364,-12.192219455577,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,50,"no oyster, dense eelgrass"
+SP_100,14.1075454545455,-14.7087077590584,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,70,"bottom oyster, dense eelgrass  - fins on fish kind of torn up"
+SP_101,14.4775454545455,-14.7428224319221,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,62,"bottom oyster, dense eelgrass"
+SP_102,13.2685454545455,-15.1359816595175,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,57,"bottom oyster, dense eelgrass - guts very goopy during dissection"
+SP_103,14.7825454545455,-13.3428612826401,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,58,"bottom oyster, dense eelgrass - fins torn, guts goopy"
+SP_104,14.2505454545455,-12.507089366078599,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,65,"bottom oyster, dense eelgrass - guts goopy"
+SP_110,13.9635454545455,-13.8695755920051,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,66,"no oyster, no eelgrass - guts goopy"
+SP_111,13.3711818181818,-14.5761881024934,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,53,"no oyster, no eelgrass - guts goopy"
+SP_112,14.2561818181818,-15.0283730033376,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,73,"no oyster, no eelgrass - guts goopy"
+SP_113,13.5231818181818,-13.2092063932805,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,58,"no oyster, no eelgrass - guts goopy"
+SP_114,13.3741818181818,-13.977772294495,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,55,"no oyster, no eelgrass - guts goopy"
+SP_177,13.3464444444444,-14.1692063316777,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,52,gut in bad condition
+SP_178,13.7544444444444,-13.6335674647288,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,60,gut in bad condition
+SP_179,13.2884444444444,-15.353397097306,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,56,NA
+SP_180,13.6424444444444,-13.9699259164413,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,49,NA
+SP_181,14.6754444444444,-12.2139041865408,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,80,NA
+SP_182,13.4224444444444,-13.6414413420684,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,60,NA
+SP_183,14.2764444444444,-12.535263781245,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,54,NA
+SP_184,14.3654444444444,-14.2926444035711,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,55,NA
+SP_185,13.7694444444444,-13.3536445090476,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,62,NA
+SP_186,13.6384444444444,-15.5004783622994,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,55,NA
+SP_187,13.6834444444444,-13.2854096056153,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,54,NA
+SP_188,14.1594444444444,-12.5922347963829,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,77,NA
+SI_198,14.7838181818182,-11.2916823876034,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,115,NA
+SI_456,15.6871818181818,-12.058205022650199,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,33,NA
+SI_457,14.4071818181818,-12.3162143787619,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,45,NA
+SI_458,13.3991818181818,-11.5787281500052,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,47,NA
+SI_459,13.7761818181818,-12.9161763268773,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,47,NA
+SI_460,13.3891818181818,-13.4427173117904,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,52,NA
+SI_461,13.7081818181818,-12.2929561764185,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,56,NA
+SI_462,14.5011818181818,-13.2372952155663,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,38,NA
+SI_463,14.0861818181818,-12.5013552598613,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,50,NA
+SI_464,14.0961818181818,-13.8535957778732,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,55,NA
+SI_465,13.7871818181818,-12.1418678710392,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,47,NA
+SI_466,13.9161818181818,-12.5668365286661,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,43,NA
+SI_467,13.7131818181818,-11.6420180883169,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,47,NA
+SI_468,13.9911818181818,-13.3261701882486,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,52,NA
+SI_469,13.6681818181818,-12.6247423869813,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,53,NA
+SI_470,13.8871818181818,-11.0938300955478,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,50,NA
+SI_471,13.9621818181818,-12.3380677638296,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,59,NA
+SI_472,14.0011818181818,-11.5491229509334,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,40,NA
+SI_473,13.6781818181818,-12.2079791463497,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,50,NA
+SI_474,14.2251818181818,-12.2534069053202,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,41,NA
+SI_475,14.0981818181818,-12.7883769286309,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,44,NA
+SI_476,14.1096363636364,-10.3063606852433,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,36,NA
+SI_477,14.7086363636364,-10.3777123041933,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,85,NA
+SI_478,14.3586363636364,-11.2320435702421,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,shiner perch,98,NA
+SI_548,13.1863636363636,-13.6114327713365,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,55,NA
+SI_549,13.6113636363636,-14.5019805261232,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,40,NA
+SI_550,13.8343636363636,-13.0083467253681,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,43,NA
+SI_551,13.7313636363636,-14.6392018742199,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,53,NA
+SI_552,13.8483636363636,-13.4668995666256,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,50,NA
+SI_553,13.7293636363636,-14.2975724731718,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,50,NA
+SI_554,13.4353636363636,-15.0837964712777,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,50,NA
+SI_555,13.6283636363636,-13.7249119094256,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,57,NA
+SI_556,13.4713636363636,-13.6494458169666,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,52,NA
+SI_557,13.4613636363636,-14.1861673979293,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,48,NA
+SI_558,13.6743636363636,-13.7891297875177,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,49,NA
+SI_559,13.4013636363636,-14.4493319381459,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,55,NA
+SI_560,13.3513636363636,-14.0405019249698,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,50,NA
+SI_561,13.4473636363636,-14.1546448269014,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,57,NA
+SI_562,16.2643636363636,-14.0578086512129,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,53,NA
+SI_564,13.4323636363636,-14.2245303926473,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,47,NA
+SI_565,13.8353636363636,-14.4239948613744,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,48,NA
+SI_566,13.9843636363636,-11.8701921735507,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,47,NA
+SI_567,14.2343636363636,-13.1693359110607,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,95,NA
+SI_568,13.6173636363636,-14.9641795366097,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,90,NA
+SI_569,14.0843636363636,-12.4744013487309,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,92,NA
+SI_570,14.1453636363636,-13.9528041061059,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,91,NA
+SI_571,14.3553636363636,-11.8930640769591,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,91,NA
+SI_572,13.8723636363636,-13.3777824842781,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,90,NA
+SI_573,14.4751818181818,-11.915743293291,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,87,NA
+SI_574,13.7051818181818,-13.0230420832743,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,107,NA
+SI_575,13.8101818181818,-14.0142374487263,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,84,NA
+SI_576,14.3961818181818,-11.9764305490482,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,87,NA
+SI_718,13.8118181818182,-16.1473640698636,DH_2022_general,Drayton Harbor,2022,general,shiner perch,104,NA
+SI_719,13.2818181818182,-14.7840305290405,DH_2022_general,Drayton Harbor,2022,general,shiner perch,64,NA
+SI_720,13.4118181818182,-14.8169190368467,DH_2022_general,Drayton Harbor,2022,general,shiner perch,65,NA
+SI_721,13.7808181818182,-14.4266333905384,DH_2022_general,Drayton Harbor,2022,general,shiner perch,74,NA
+SI_722,13.6428181818182,-15.2451964540334,DH_2022_general,Drayton Harbor,2022,general,shiner perch,75,NA
+SI_723,13.2528181818182,-14.7970037815111,DH_2022_general,Drayton Harbor,2022,general,shiner perch,80,NA
+SI_724,13.1438181818182,-14.8482870847386,DH_2022_general,Drayton Harbor,2022,general,shiner perch,73,NA
+SI_725,13.3848181818182,-14.8522988422233,DH_2022_general,Drayton Harbor,2022,general,shiner perch,67,NA
+SI_726,13.5688181818182,-14.7622085468582,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_727,14.2628181818182,-14.1259456816327,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_728,13.4208181818182,-14.1675648858073,DH_2022_general,Drayton Harbor,2022,general,shiner perch,68,NA
+SI_729,13.4018181818182,-14.9820004694457,DH_2022_general,Drayton Harbor,2022,general,shiner perch,57,NA
+SI_730,13.4648181818182,-14.6639343620008,DH_2022_general,Drayton Harbor,2022,general,shiner perch,69,NA
+SI_731,13.6408181818182,-14.5740133849678,DH_2022_general,Drayton Harbor,2022,general,shiner perch,67,NA
+SI_732,13.1798181818182,-16.28650769899,DH_2022_general,Drayton Harbor,2022,general,shiner perch,77,NA
+SI_733,13.8448181818182,-14.0650317424795,DH_2022_general,Drayton Harbor,2022,general,shiner perch,76,NA
+SI_734,14.4478181818182,-13.731489327933,DH_2022_general,Drayton Harbor,2022,general,shiner perch,69,NA
+SI_735,13.4478181818182,-13.1488111237444,DH_2022_general,Drayton Harbor,2022,general,shiner perch,68,NA
+SI_736,13.1838181818182,-14.0416411123164,DH_2022_general,Drayton Harbor,2022,general,shiner perch,67,NA
+SI_737,13.3658181818182,-12.8766894458041,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_738,14.2588181818182,-13.1971694751699,DH_2022_general,Drayton Harbor,2022,general,shiner perch,72,NA
+SI_739,13.2118181818182,-14.7978001858686,DH_2022_general,Drayton Harbor,2022,general,shiner perch,55,NA
+SI_740,13.8198181818182,-13.3779928853786,DH_2022_general,Drayton Harbor,2022,general,shiner perch,74,NA
+SI_741,14.1349090909091,-12.9255190999662,DH_2022_general,Drayton Harbor,2022,general,shiner perch,67,NA
+SI_742,13.7299090909091,-14.6314292351155,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_743,13.8929090909091,-12.6515837621612,DH_2022_general,Drayton Harbor,2022,general,shiner perch,69,NA
+SI_744,13.4889090909091,-14.2572560437134,DH_2022_general,Drayton Harbor,2022,general,shiner perch,72,NA
+SI_745,13.4299090909091,-13.3530536686281,DH_2022_general,Drayton Harbor,2022,general,shiner perch,65,NA
+SI_746,13.7469090909091,-14.8360599631377,DH_2022_general,Drayton Harbor,2022,general,shiner perch,60,NA
+SI_747,13.3009090909091,-12.8476050825796,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_748,13.9329090909091,-14.2081144389884,DH_2022_general,Drayton Harbor,2022,general,shiner perch,65,NA
+SI_749,13.8039090909091,-16.4709989286817,DH_2022_general,Drayton Harbor,2022,general,shiner perch,65,NA
+SI_750,13.4049090909091,-14.4015621632732,DH_2022_general,Drayton Harbor,2022,general,shiner perch,67,NA
+SI_751,13.4219090909091,-13.6443665238672,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_752,13.7609090909091,-13.7737680138221,DH_2022_general,Drayton Harbor,2022,general,shiner perch,72,NA
+SI_753,13.4949090909091,-14.2823939204359,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_754,13.7139090909091,-13.7845702904194,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_755,13.7349090909091,-15.0857187886415,DH_2022_general,Drayton Harbor,2022,general,shiner perch,80,NA
+SI_756,13.3609090909091,-13.0579596132319,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_757,13.7369090909091,-16.3885333400257,DH_2022_general,Drayton Harbor,2022,general,shiner perch,100,NA
+SI_758,13.6419090909091,-14.8613932541918,DH_2022_general,Drayton Harbor,2022,general,shiner perch,75,NA
+SI_759,14.0329090909091,-13.9440228778939,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_760,14.1059090909091,-14.3386964763377,DH_2022_general,Drayton Harbor,2022,general,shiner perch,112,NA
+SI_761,13.5479090909091,-14.1582181354266,DH_2022_general,Drayton Harbor,2022,general,shiner perch,64,NA
+SI_762,13.9249090909091,-13.8857391586193,DH_2022_general,Drayton Harbor,2022,general,shiner perch,72,NA
+SI_763,13.1419090909091,-14.8191499907301,DH_2022_general,Drayton Harbor,2022,general,shiner perch,62,NA
+SI_764,14.0029090909091,-14.212118311547,DH_2022_general,Drayton Harbor,2022,general,shiner perch,71,NA
+SI_765,13.2086363636364,-13.704478845212,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_766,13.0376363636364,-13.229113611059,DH_2022_general,Drayton Harbor,2022,general,shiner perch,75,NA
+SI_767,13.2456363636364,-13.0985535239921,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_768,13.2176363636364,-13.0445862243777,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_769,13.3686363636364,-13.0879527805342,DH_2022_general,Drayton Harbor,2022,general,shiner perch,61,NA
+SI_770,13.6806363636364,-12.2450325165706,DH_2022_general,Drayton Harbor,2022,general,shiner perch,69,NA
+SI_771,13.8836363636364,-12.4371355014159,DH_2022_general,Drayton Harbor,2022,general,shiner perch,63,NA
+SI_772,13.1866363636364,-14.3077621537402,DH_2022_general,Drayton Harbor,2022,general,shiner perch,68,NA
+SI_773,13.4216363636364,-13.3156594966265,DH_2022_general,Drayton Harbor,2022,general,shiner perch,65,NA
+SI_774,13.5536363636364,-14.0854382258065,DH_2022_general,Drayton Harbor,2022,general,shiner perch,75,NA
+SI_775,13.7536363636364,-13.8145541706655,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_776,13.6796363636364,-14.4434278732797,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_781,13.4886363636364,-13.9358979120845,DH_2022_general,Drayton Harbor,2022,general,shiner perch,62,NA
+SI_782,14.0736363636364,-12.9084967362965,DH_2022_general,Drayton Harbor,2022,general,shiner perch,63,NA
+SI_01,11.2908181818182,-12.0888857719007,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,shore crab,NA,NA
+SI_02,11.4138181818182,-11.6278937743968,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,shore crab,NA,NA
+SI_03,10.8988181818182,-12.38298007827,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,shore crab,NA,NA
+SI_04,10.7928181818182,-11.8992193563368,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,shore crab,NA,NA
+SI_05,10.8598181818182,-11.2295572003811,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,shore crab,NA,NA
+SI_22,11.7166363636364,-12.365152516826,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,shore crab,NA,NA
+SI_23,12.5466363636364,-13.1547897696398,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,shore crab,NA,NA
+SI_24,11.0986363636364,-12.1244177574202,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,shore crab,NA,NA
+SI_25,11.8706363636364,-11.9287349110202,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,shore crab,NA,NA
+SI_26,11.0386363636364,-10.6139280761406,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,shore crab,NA,NA
+SI_39,11.1346363636364,-12.9855131444036,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,shore crab,NA,NA
+SI_40,10.4276363636364,-13.8615290963988,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,shore crab,NA,NA
+SI_41,10.2106363636364,-10.998484844684,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,shore crab,NA,NA
+SI_42,10.0186363636364,-10.4534266333884,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,shore crab,NA,NA
+SI_43,11.6626363636364,-10.8480316348169,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,shore crab,NA,NA
+SI_56,11.0023636363636,-13.0269702081567,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,shore crab,NA,NA
+SI_57,11.6583636363636,-11.5261908867869,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,shore crab,NA,NA
+SI_82,11.686,-9.919530675166,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,shore crab,NA,NA
+SI_83,11.743,-9.23814585997084,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,shore crab,NA,NA
+SI_84,11.668,-9.06196492690477,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,shore crab,NA,NA
+SI_85,11.566,-9.22731413593263,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,shore crab,NA,NA
+SI_86,11.746,-9.97668429423224,PBR_2021_eelgrass,Padilla Bay Reserve,2021,eelgrass,shore crab,NA,NA
+SI_97,10.6716363636364,-15.2375943018285,DH_2021_flipbags,Drayton Harbor,2021,flipbags,shore crab,NA,NA
+SI_117,11.2902727272727,-14.5377582461161,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,shore crab,NA,NA
+SI_118,9.97327272727273,-15.0766088450486,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,shore crab,NA,NA
+SI_157,14.8376363636364,-13.3845938523257,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,staghorn sculpin,72,NA
+SI_158,14.0466363636364,-13.9172681492142,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,staghorn sculpin,100,NA
+SI_159,14.5666363636364,-13.4874453671754,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,staghorn sculpin,112,NA
+SI_160,13.3516363636364,-13.2995841469152,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,staghorn sculpin,79,NA
+SI_161,13.6526363636364,-14.7518465084464,PBR_2020_eelgrass,Padilla Bay Reserve,2020,eelgrass,staghorn sculpin,84,NA
+SS_77,14.0646363636364,-11.6565232838723,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,102,"bottom oyster, sparse eelgrass"
+SS_78,13.5756363636364,-12.2955901094343,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,119,"bottom oyster, sparse eelgrass"
+SS_79,13.3776363636364,-13.4777356810725,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,102,"bottom oyster, sparse eelgrass"
+SS_80,14.1486363636364,-12.8264959124517,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,113,"bottom oyster, sparse eelgrass"
+SS_81,13.6436363636364,-11.5497423114384,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,76,"bottom oyster, sparse eelgrass"
+SS_87,14.1445454545455,-12.1058214918226,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,72,"no oyster, dense eelgrass"
+SS_88,14.3465454545455,-11.5763875254551,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,94,"no oyster, dense eelgrass"
+SS_89,14.1315454545455,-11.9588073067649,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,105,"no oyster, dense eelgrass"
+SS_90,14.1545454545455,-11.3408353454148,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,109,"no oyster, dense eelgrass"
+SS_91,14.2155454545455,-13.3021258069696,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,116,"no oyster, dense eelgrass"
+SS_92,14.1135454545455,-11.2505684965534,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,91,"bottom oyster, no eelgrass"
+SS_93,14.0385454545455,-12.496775200594,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,75,"bottom oyster, no eelgrass"
+SS_94,13.9175454545455,-12.8231594358462,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,82,"bottom oyster, no eelgrass"
+SS_95,13.5625454545455,-12.8913863030201,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,80,"bottom oyster, no eelgrass"
+SS_96,13.2505454545455,-13.3660698454721,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,103,"bottom oyster, no eelgrass"
+SS_97,14.6865454545455,-12.6419331113682,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,78,"bottom oyster, dense eelgrass"
+SS_98,14.3015454545455,-11.5112724937136,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,105,"bottom oyster, dense eelgrass"
+SS_99,14.2325454545455,-14.4927907680826,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,123,"bottom oyster, dense eelgrass"
+SS_105,14.7335454545455,-13.3372545800024,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,79,"no oyster, no eelgrass"
+SS_106,14.7075454545455,-11.6667697930835,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,72,"no oyster, no eelgrass"
+SS_107,14.3585454545455,-12.7626332090517,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,79,"no oyster, no eelgrass (tissue samples left in cooler overnight, cold but not frozen)"
+SS_108,14.7325454545455,-11.2685975488396,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,80,"no oyster, no eelgrass (tissue samples left in cooler overnight, cold but not frozen)"
+SS_109,14.6515454545455,-12.2049095994505,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,98,"no oyster, no eelgrass"
+SS_192,14.7814444444444,-12.1744250876413,OCS_2021_general,Oyster Creek Samish,2021,general,staghorn sculpin,100,NA
+SI_267,13.9773636363636,-13.1272090729937,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,86,NA
+SI_268,14.3593636363636,-11.4723376811918,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,98,NA
+SI_269,13.4353636363636,-13.4203829955556,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,83,NA
+SI_270,13.3633636363636,-12.4472620082388,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,81,NA
+SI_271,14.0243636363636,-12.3120561529392,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,78,NA
+SI_272,14.3163636363636,-12.6764440784741,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,70,NA
+SI_273,13.2283636363636,-13.772285437679,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,65,NA
+SI_274,13.0953636363636,-13.7747527710313,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,73,NA
+SI_275,14.0753636363636,-12.8126224281983,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,71,NA
+SI_276,13.7153636363636,-12.493017707839,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,80,NA
+SI_277,13.8423636363636,-11.5360843786443,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,65,NA
+SI_278,13.6793636363636,-12.2947775136293,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,55,NA
+SI_279,13.1863636363636,-14.3701447609087,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,54,NA
+SI_280,13.3833636363636,-12.5002093219249,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,58,NA
+SI_281,14.0813636363636,-11.3795697385281,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,53,NA
+SI_282,12.8453636363636,-13.3242899933632,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,53,NA
+SI_283,13.7133636363636,-12.6300234115817,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,53,NA
+SI_284,13.4777272727273,-13.0191964154316,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,40,NA
+SI_285,13.7547272727273,-12.9046418939912,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,41,NA
+SI_286,13.6417272727273,-12.9594104300379,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,49,NA
+SI_287,12.3187272727273,-13.4759629124829,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,42,NA
+SI_288,14.1597272727273,-13.0017778156017,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,49,NA
+SI_289,13.5927272727273,-13.4075954759328,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,50,NA
+SI_292,14.1387272727273,-12.876464590116,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,82,NA
+SI_293,13.7387272727273,-13.3244757772344,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,65,NA
+SI_294,13.2097272727273,-13.086199903691,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,44,NA
+SI_295,13.6497272727273,-13.2151473510012,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,39,NA
+SI_296,13.0327272727273,-12.7886195426129,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,65,NA
+SI_297,13.8107272727273,-12.6146776762295,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,45,NA
+SI_298,13.2537272727273,-13.132145635094,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,65,NA
+SI_299,14.3167272727273,-12.9551506014602,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,50,NA
+SI_300,14.0577272727273,-12.4228792484593,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,69,NA
+SI_301,14.1187272727273,-12.6655596752055,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,61,NA
+SI_302,13.4827272727273,-12.9264576914977,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,31,NA
+SI_303,13.8117272727273,-14.0680166948686,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,100,NA
+SI_304,13.8247272727273,-13.6036451182424,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,111,NA
+SI_306,13.9637272727273,-12.3595622810322,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,75,NA
+SI_307,13.3357272727273,-12.5831736958519,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,46,NA
+SI_308,13.2055454545455,-13.4040916743607,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,85,NA
+SI_309,14.0095454545455,-11.9458996819427,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,65,NA
+SI_310,12.6795454545455,-15.0117133199845,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,94,NA
+SI_311,14.0155454545455,-11.974527898898,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,79,NA
+SI_312,14.1395454545455,-11.7583589874935,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,76,NA
+SI_313,13.6365454545455,-12.4091829542392,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,71,NA
+SI_314,13.2945454545455,-13.3233454383687,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,70,NA
+SI_315,14.1745454545455,-12.1043152884645,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,69,NA
+SI_316,14.0435454545455,-12.3524163785777,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,71,NA
+SI_317,13.6475454545455,-13.0555769480951,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,66,NA
+SI_318,13.4645454545455,-13.0024689661358,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,63,NA
+SI_319,12.4215454545455,-16.9583278971217,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,59,NA
+SI_320,14.3485454545455,-11.603877662551,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,71,NA
+SI_321,14.0895454545455,-12.8807534593201,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,66,NA
+SI_322,13.6015454545455,-12.825006454876,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,67,NA
+SI_323,14.1315454545455,-11.0335323988743,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,61,NA
+SI_324,14.0215454545455,-12.0825283527207,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,63,NA
+SI_325,14.0055454545455,-12.7435195926446,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,57,NA
+SI_326,13.6255454545455,-12.8155363649546,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,60,NA
+SI_327,14.0655454545455,-12.7762426934128,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,40,NA
+SI_328,14.1255454545455,-11.96026049356,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,67,NA
+SI_329,14.0375454545455,-11.4349624957275,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,69,NA
+SI_330,12.8585454545455,-13.3189069430276,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,54,NA
+SI_331,13.8005454545455,-12.6847931081329,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,55,NA
+SI_332,13.8135454545455,-13.1017977492108,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,56,NA
+SI_333,13.1515454545455,-13.1976035898478,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,58,NA
+SI_334,13.4905454545455,-12.7130954232829,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,55,NA
+SI_335,12.8245454545455,-13.1800006792924,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,52,NA
+SI_336,13.7915454545455,-12.9114224509867,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,52,NA
+SI_337,12.2365454545455,-12.7807319197683,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,56,NA
+SI_338,13.0915454545455,-13.6761740977026,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,50,NA
+SI_339,13.4505454545455,-12.7152581658318,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,46,NA
+SI_340,12.5115454545455,-14.3015208017111,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,50,NA
+SI_341,12.4275454545455,-14.3121168461022,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,42,NA
+SI_342,12.3955454545455,-14.091460977207,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,40,NA
+SI_343,12.9805454545455,-13.6745167772608,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,40,NA
+SI_344,13.3715454545455,-13.1462519775784,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,42,NA
+SI_345,13.2285454545455,-14.1357644770682,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,39,NA
+SI_524,14.7274545454545,-9.78025772384812,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,staghorn sculpin,100,NA
+SI_525,14.1844545454545,-10.2638592230739,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,staghorn sculpin,93,NA
+SI_526,14.2234545454545,-10.1637295374501,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,staghorn sculpin,85,NA
+SI_527,15.3994545454545,-10.4763019235179,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,staghorn sculpin,133,NA
+SI_674,14.1560909090909,-14.0276170788788,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,110,NA
+SI_675,14.5590909090909,-13.261692303868,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,110,NA
+SI_676,13.9940909090909,-14.5475253055914,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,55,NA
+SI_677,13.6060909090909,-14.5408036123773,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,97,NA
+SI_678,14.6030909090909,-13.657329521845,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,130,NA
+SI_679,13.3720909090909,-14.8751713446147,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,150,NA
+SI_680,14.2370909090909,-14.0344657601737,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,112,NA
+SI_681,14.1250909090909,-14.3303249891772,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,110,NA
+SI_682,13.9890909090909,-14.1178684850037,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,113,NA
+SI_683,14.0610909090909,-14.3092133978404,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,117,NA
+SI_684,14.7520909090909,-13.2449468178858,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,112,NA
+SI_685,13.7000909090909,-12.5425879145592,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,90,NA
+SI_686,15.3210909090909,-13.0159550858742,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,115,NA
+SI_687,14.2640909090909,-13.9962793496753,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,75,NA
+SI_688,14.2210909090909,-14.1847041517524,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,108,NA
+SI_689,13.8040909090909,-14.1046092696459,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,104,NA
+SI_690,14.1040909090909,-14.3372386135646,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,142,NA
+SI_691,13.8930909090909,-13.6600232147345,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,82,NA
+SI_692,14.4520909090909,-14.2367750675417,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,113,NA
+SI_693,15.3982727272727,-12.8034035095332,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,142,NA
+SI_694,14.7672727272727,-13.1445167152708,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,105,NA
+SI_695,13.7312727272727,-13.7225174739417,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,96,NA
+SI_696,14.4912727272727,-12.7414346144617,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,86,NA
+SI_697,14.2222727272727,-13.7703893501136,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,109,NA
+SI_698,13.2362727272727,-13.9549449922714,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,62,NA
+SI_699,13.8092727272727,-13.1058763704736,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,110,NA
+SI_700,14.4842727272727,-13.3599609382058,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,84,NA
+SI_701,14.2072727272727,-14.3895124265863,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,139,NA
+SI_702,14.2002727272727,-12.9421958569866,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,104,NA
+SI_703,14.0182727272727,-14.0087731700355,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,95,NA
+SI_704,13.8532727272727,-13.475681675261,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,80,NA
+SI_705,13.5952727272727,-14.3160369295909,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,93,NA
+SI_706,14.1752727272727,-12.566092259686,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,123,NA
+SI_707,13.9932727272727,-13.2315695174625,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,95,NA
+SI_708,14.1802727272727,-13.4306290115369,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,86,NA
+SI_709,13.4342727272727,-13.1194586432504,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,84,NA
+SI_710,14.1762727272727,-13.8195428533139,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,110,NA
+SI_711,14.3782727272727,-13.291179297931,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,145,NA
+SI_712,14.2292727272727,-13.5938867791278,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,97,NA
+SI_713,13.6772727272727,-14.4402716933496,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,97,NA
+SI_714,13.9922727272727,-13.929300845867,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,135,NA
+SI_715,14.2742727272727,-13.6684372101955,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,125,NA
+SI_716,14.9312727272727,-13.3037640508837,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,190,NA
+SI_717,15.9708181818182,-13.7331371329067,DH_2022_general,Drayton Harbor,2022,general,staghorn sculpin,150,NA
+SI_305,13.9876363636364,-11.4170433524053,OCS_2022_general,Oyster Creek Samish,2022,general,staghorn sculpin,80,NA
+SF_115,13.2231818181818,-11.5042204103579,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,81,"no oyster, dense eelgrass"
+SF_116,13.1141818181818,-12.8773246371368,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,69,"no oyster, dense eelgrass - stomach burst, took stomach and whole gut"
+SF_117,13.0751818181818,-12.1920021288538,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,61,"no oyster, dense eelgrass - took stomach and whole gut"
+SF_118,13.3601818181818,-12.2037407443687,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,70,"no oyster, dense eelgrass - took stomach and whole gut"
+SF_119,13.3301818181818,-12.5968136998034,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,61,"no oyster, dense eelgrass - took stomach and whole gut"
+SF_120,13.8231818181818,-13.9681998934839,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,83,"no oyster, dense eelgrass (label says ""dense-no"", but assuming they mean ""no-dense"") - goopy gut"
+SF_121,14.1241818181818,-15.0513882213866,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,83,"no oyster, dense eelgrass (label says ""dense-no"", but assuming they mean ""no-dense"") - goopy gut"
+SF_122,13.5611818181818,-13.8312710499408,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,84,"no oyster, dense eelgrass (label says ""dense-no"", but assuming they mean ""no-dense"") - goopy gut"
+SF_123,13.0141818181818,-17.1626206152805,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,84,"no oyster, dense eelgrass (label says ""dense-no"", but assuming they mean ""no-dense"") - goopy gut"
+SF_124,13.5211818181818,-14.4485401956,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,68,"no oyster, dense eelgrass (label says ""dense-no"", but assuming they mean ""no-dense"") - goopy gut"
+SF_172,13.8991818181818,-13.8546533964629,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,73,NA
+SF_173,12.5771818181818,-15.2621359424195,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,93,NA
+SF_174,14.2761818181818,-13.1313854805049,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,77,NA
+SF_175,13.2401818181818,-15.4703288045978,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,80,NA
+SF_189,14.0644444444444,-14.4168824740965,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,79,NA
+SF_190,13.7994444444444,-14.3207717059077,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,74,NA
+SF_191,13.3314444444444,-15.2765119183955,OCS_2021_general,Oyster Creek Samish,2021,general,starry flounder,94,NA
+SI_615,13.7446363636364,-15.2541265484603,DH_2022_general,Drayton Harbor,2022,general,starry flounder,75,NA
+SI_616,13.2096363636364,-15.075622782701,DH_2022_general,Drayton Harbor,2022,general,starry flounder,76,NA
+SI_617,13.3076363636364,-15.0157238403334,DH_2022_general,Drayton Harbor,2022,general,starry flounder,90,NA
+SI_618,12.7606363636364,-14.8991785720063,DH_2022_general,Drayton Harbor,2022,general,starry flounder,81,NA
+SI_619,12.9116363636364,-14.5316192426048,DH_2022_general,Drayton Harbor,2022,general,starry flounder,70,NA
+SI_620,13.1756363636364,-14.6804029800813,DH_2022_general,Drayton Harbor,2022,general,starry flounder,82,NA
+SI_621,14.3510909090909,-16.1338076699727,DH_2022_general,Drayton Harbor,2022,general,starry flounder,91,NA
+SI_622,12.5520909090909,-15.3660274856454,DH_2022_general,Drayton Harbor,2022,general,starry flounder,88,NA
+SI_623,13.5900909090909,-14.3281877061973,DH_2022_general,Drayton Harbor,2022,general,starry flounder,80,NA
+SI_624,13.5800909090909,-14.5348900237559,DH_2022_general,Drayton Harbor,2022,general,starry flounder,75,NA
+SI_625,13.2740909090909,-13.7342679816956,DH_2022_general,Drayton Harbor,2022,general,starry flounder,65,NA
+SI_626,12.5040909090909,-14.8759040857836,DH_2022_general,Drayton Harbor,2022,general,starry flounder,65,NA
+SI_627,13.3310909090909,-13.8081207889653,DH_2022_general,Drayton Harbor,2022,general,starry flounder,76,NA
+SI_628,13.6590909090909,-13.8835018241156,DH_2022_general,Drayton Harbor,2022,general,starry flounder,79,NA
+SI_629,13.5800909090909,-15.176022840657,DH_2022_general,Drayton Harbor,2022,general,starry flounder,86,NA
+SI_630,13.2370909090909,-14.8395185850946,DH_2022_general,Drayton Harbor,2022,general,starry flounder,62,NA
+SI_631,13.1360909090909,-15.2812798549808,DH_2022_general,Drayton Harbor,2022,general,starry flounder,80,NA
+SI_632,13.4920909090909,-14.9433734251131,DH_2022_general,Drayton Harbor,2022,general,starry flounder,76,NA
+SI_633,13.9320909090909,-13.9760302395015,DH_2022_general,Drayton Harbor,2022,general,starry flounder,160,NA
+SB_167,14.0051818181818,-15.7675495267165,OCS_2021_general,Oyster Creek Samish,2021,general,stickleback,62,NA
+SB_168,13.1761818181818,-16.1083072910926,OCS_2021_general,Oyster Creek Samish,2021,general,stickleback,72,NA
+SB_169,13.0361818181818,-16.7909590301087,OCS_2021_general,Oyster Creek Samish,2021,general,stickleback,70,NA
+SB_170,12.9821818181818,-18.1662577454188,OCS_2021_general,Oyster Creek Samish,2021,general,stickleback,76,lots of parasitic external copepods
+SB_171,13.5381818181818,-17.1028254430499,OCS_2021_general,Oyster Creek Samish,2021,general,stickleback,67,NA
+SI_199,14.1528181818182,-13.7111775024365,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,62,NA
+SI_200,13.6378181818182,-15.6519074188554,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,40,NA
+SI_201,10.6788181818182,-14.2701722366153,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,20,NA
+SI_202,15.4888181818182,-23.4337987083083,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,23,NA
+SI_203,11.0748181818182,-14.9143801525142,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,25,NA
+SI_204,13.6588181818182,-19.5455117294793,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,75,NA
+SI_205,13.7498181818182,-19.0570074958809,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,70,NA
+SI_206,12.6328181818182,-18.2828849334755,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,70,NA
+SI_207,12.9028181818182,-17.805615774585,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,35,NA
+SI_208,9.41981818181818,-26.925913528618,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,35,NA
+SI_209,12.7358181818182,-15.6650682957534,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,33,NA
+SI_210,11.1878181818182,-28.1454326147866,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,30,NA
+SI_211,10.5928181818182,-23.3605916534776,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,27,NA
+SI_212,10.3989090909091,-11.9539314952601,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,29,NA
+SI_213,10.2999090909091,-12.90485071909,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,30,NA
+SI_214,12.5579090909091,-12.146929575943,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,29,NA
+SI_215,10.2859090909091,-27.9940066959604,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,26,NA
+SI_216,12.9379090909091,-11.4876287669293,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,27,NA
+SI_217,11.8739090909091,-13.6803258525224,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,26,NA
+SI_218,9.57890909090909,-15.5528094422549,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,26,NA
+SI_219,10.8419090909091,-12.4787650612072,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,25,NA
+SI_220,10.3009090909091,-30.7383403728828,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,22,NA
+SI_221,12.1589090909091,-11.8323308938918,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,26,NA
+SI_222,9.61090909090909,-7.98748848363483,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,21,NA
+SI_223,11.5229090909091,-12.8253298880308,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,24,NA
+SI_224,11.7219090909091,-12.109290721792,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,25,NA
+SI_225,11.1879090909091,-12.1427626166375,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,23,NA
+SI_226,11.5099090909091,-15.0678836588086,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,21,NA
+SI_227,9.56590909090909,-7.68576406323161,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,19,NA
+SI_228,11.1119090909091,-15.2278875476835,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,23,NA
+SI_229,10.9509090909091,-10.8956470745751,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,20,NA
+SI_291,11.7397272727273,-14.7038713948993,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,20,NA
+SI_411,13.2172727272727,-17.7190042989326,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,75,NA
+SI_412,13.8082727272727,-17.6781451441046,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,72,NA
+SI_413,13.0292727272727,-17.3573818916822,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,72,NA
+SI_414,13.6542727272727,-17.7526931352953,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,66,NA
+SI_415,13.6952727272727,-16.0101476926249,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,66,NA
+SI_416,13.6402727272727,-18.5225994467355,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,60,NA
+SI_417,14.6312727272727,-18.4399573436025,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,33,NA
+SI_418,13.7912727272727,-17.7276339794053,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,29,NA
+SI_447,14.002,-18.1794143987621,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,73,NA
+SI_479,13.8636363636364,-17.5774619190945,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,71,NA
+SI_480,14.4856363636364,-17.3882033383083,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,67,NA
+SI_481,13.2586363636364,-18.0833559893849,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,67,NA
+SI_482,13.5196363636364,-18.3284922265031,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,71,NA
+SI_483,13.7366363636364,-18.7209601269257,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,70,NA
+SI_484,13.8726363636364,-17.8655563480762,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,66,NA
+SI_485,13.4716363636364,-17.2037684946933,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,78,NA
+SI_486,14.5316363636364,-17.3849257601553,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,65,NA
+SI_487,13.6146363636364,-17.5749442934072,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,76,NA
+SI_488,14.1066363636364,-17.2506468089508,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,67,NA
+SI_489,13.9236363636364,-17.1627981301298,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,65,NA
+SI_490,13.8346363636364,-17.568717640897,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,65,NA
+SI_491,13.2446363636364,-16.6678561178258,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,72,NA
+SI_492,13.9366363636364,-17.7598349613623,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,68,NA
+SI_493,13.6746363636364,-10.9401231926319,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,20,NA
+SI_494,13.8826363636364,-9.56802531194093,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,20,NA
+SI_495,13.5756363636364,-14.0794251376506,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,30,NA
+SI_496,14.4986363636364,-9.76619784374702,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,18,NA
+SI_497,13.9606363636364,-10.2025833302288,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,15,NA
+SI_498,13.9836363636364,-8.44957369527855,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,16,NA
+SI_499,14.0366363636364,-10.5384188245247,PBR_2022_eelgrass,Padilla Bay Reserve,2022,eelgrass,stickleback,22,NA
+SI_528,11.2444545454545,-26.0106299007358,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,30,NA
+SI_529,11.5884545454545,-29.2095775446306,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,27,NA
+SI_530,14.3764545454545,-17.9247420376595,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,33,NA
+SI_531,14.1704545454545,-17.8310661052745,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,65,NA
+SI_532,13.5204545454545,-18.989445837746,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,70,NA
+SI_533,13.3944545454545,-18.1075842085558,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,65,NA
+SI_534,13.4284545454545,-18.1663307732517,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,68,NA
+SI_535,13.8194545454545,-18.819884203032,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,69,NA
+SI_577,10.9841818181818,-24.2583461757539,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,30,NA
+SI_634,14.1840909090909,-18.9682784750849,DH_2022_general,Drayton Harbor,2022,general,stickleback,65,NA
+SI_635,14.0040909090909,-17.9326065299361,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_636,13.2000909090909,-18.1630825945425,DH_2022_general,Drayton Harbor,2022,general,stickleback,75,NA
+SI_637,13.5290909090909,-17.7389793934229,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_638,13.5150909090909,-17.7692628805297,DH_2022_general,Drayton Harbor,2022,general,stickleback,72,NA
+SI_639,13.6880909090909,-17.8090336445765,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_640,13.1560909090909,-18.7048724121943,DH_2022_general,Drayton Harbor,2022,general,stickleback,73,NA
+SI_641,13.4090909090909,-18.78097033855,DH_2022_general,Drayton Harbor,2022,general,stickleback,77,NA
+SI_642,13.8800909090909,-18.213193730916,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_643,13.6170909090909,-17.6491874661399,DH_2022_general,Drayton Harbor,2022,general,stickleback,76,NA
+SI_644,13.8780909090909,-18.5709299109119,DH_2022_general,Drayton Harbor,2022,general,stickleback,67,NA
+SI_645,13.1526363636364,-17.5975160269454,DH_2022_general,Drayton Harbor,2022,general,stickleback,74,NA
+SI_646,13.2936363636364,-18.05466572339,DH_2022_general,Drayton Harbor,2022,general,stickleback,65,NA
+SI_647,13.9696363636364,-18.1921659831324,DH_2022_general,Drayton Harbor,2022,general,stickleback,65,NA
+SI_648,13.2096363636364,-18.3219848400458,DH_2022_general,Drayton Harbor,2022,general,stickleback,72,NA
+SI_649,13.6906363636364,-18.5384922042985,DH_2022_general,Drayton Harbor,2022,general,stickleback,47,NA
+SI_650,12.8266363636364,-18.7311234607221,DH_2022_general,Drayton Harbor,2022,general,stickleback,71,NA
+SI_651,13.5106363636364,-18.7350625944982,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_652,13.4866363636364,-18.7921624797864,DH_2022_general,Drayton Harbor,2022,general,stickleback,73,NA
+SI_653,14.0556363636364,-18.3015671059664,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_654,13.4196363636364,-14.0629901499931,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_655,13.1306363636364,-13.4191640761571,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_656,12.8626363636364,-14.0950679209232,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_657,12.8726363636364,-14.1173139068228,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_658,12.3046363636364,-14.9890183125494,DH_2022_general,Drayton Harbor,2022,general,stickleback,20,NA
+SI_659,13.3406363636364,-12.7809205680364,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_660,13.1966363636364,-13.8761220486551,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_661,12.8586363636364,-13.350742051875,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_662,13.2006363636364,-14.9671202917945,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_663,13.2336363636364,-11.3775456558535,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_664,12.7346363636364,-14.5928870306844,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_665,13.1416363636364,-13.4758810895471,DH_2022_general,Drayton Harbor,2022,general,stickleback,20,NA
+SI_666,13.0586363636364,-13.6825698972095,DH_2022_general,Drayton Harbor,2022,general,stickleback,20,NA
+SI_667,12.9886363636364,-15.2475515862027,DH_2022_general,Drayton Harbor,2022,general,stickleback,25,NA
+SI_668,12.8866363636364,-13.8973888868066,DH_2022_general,Drayton Harbor,2022,general,stickleback,20,NA
+SI_669,12.6470909090909,-16.1766123891431,DH_2022_general,Drayton Harbor,2022,general,stickleback,20,NA
+SI_670,13.0270909090909,-14.381945634555,DH_2022_general,Drayton Harbor,2022,general,stickleback,20,NA
+SI_671,12.9130909090909,-13.75672905888,DH_2022_general,Drayton Harbor,2022,general,stickleback,20,NA
+SI_672,12.9550909090909,-15.5863225677438,DH_2022_general,Drayton Harbor,2022,general,stickleback,20,NA
+SI_673,12.4070909090909,-15.2383031384361,DH_2022_general,Drayton Harbor,2022,general,stickleback,20,NA

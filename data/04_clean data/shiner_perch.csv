@@ -1,0 +1,118 @@
+sampleID,d15N,d13C,sampling_id,location,year,habitat_type,sample_category,length_mm,notes
+SP_82,13.0706363636364,-12.7573201090397,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,50,"no oyster, dense eelgrass"
+SP_83,13.6526363636364,-11.9609894782459,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,58,"no oyster, dense eelgrass"
+SP_84,13.9126363636364,-12.8075812834685,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,60,"no oyster, dense eelgrass"
+SP_85,13.4696363636364,-12.159680950267,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,61,"no oyster, dense eelgrass"
+SP_86,13.2756363636364,-12.192219455577,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,50,"no oyster, dense eelgrass"
+SP_100,14.1075454545455,-14.7087077590584,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,70,"bottom oyster, dense eelgrass  - fins on fish kind of torn up"
+SP_101,14.4775454545455,-14.7428224319221,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,62,"bottom oyster, dense eelgrass"
+SP_102,13.2685454545455,-15.1359816595175,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,57,"bottom oyster, dense eelgrass - guts very goopy during dissection"
+SP_103,14.7825454545455,-13.3428612826401,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,58,"bottom oyster, dense eelgrass - fins torn, guts goopy"
+SP_104,14.2505454545455,-12.507089366078599,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,65,"bottom oyster, dense eelgrass - guts goopy"
+SP_110,13.9635454545455,-13.8695755920051,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,66,"no oyster, no eelgrass - guts goopy"
+SP_111,13.3711818181818,-14.5761881024934,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,53,"no oyster, no eelgrass - guts goopy"
+SP_112,14.2561818181818,-15.0283730033376,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,73,"no oyster, no eelgrass - guts goopy"
+SP_113,13.5231818181818,-13.2092063932805,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,58,"no oyster, no eelgrass - guts goopy"
+SP_114,13.3741818181818,-13.977772294495,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,55,"no oyster, no eelgrass - guts goopy"
+SP_177,13.3464444444444,-14.1692063316777,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,52,gut in bad condition
+SP_178,13.7544444444444,-13.6335674647288,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,60,gut in bad condition
+SP_179,13.2884444444444,-15.353397097306,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,56,NA
+SP_180,13.6424444444444,-13.9699259164413,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,49,NA
+SP_181,14.6754444444444,-12.2139041865408,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,80,NA
+SP_182,13.4224444444444,-13.6414413420684,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,60,NA
+SP_183,14.2764444444444,-12.535263781245,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,54,NA
+SP_184,14.3654444444444,-14.2926444035711,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,55,NA
+SP_185,13.7694444444444,-13.3536445090476,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,62,NA
+SP_186,13.6384444444444,-15.5004783622994,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,55,NA
+SP_187,13.6834444444444,-13.2854096056153,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,54,NA
+SP_188,14.1594444444444,-12.5922347963829,OCS_2021_general,Oyster Creek Samish,2021,general,shiner perch,77,NA
+SI_198,14.7838181818182,-11.2916823876034,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,115,NA
+SI_548,13.1863636363636,-13.6114327713365,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,55,NA
+SI_549,13.6113636363636,-14.5019805261232,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,40,NA
+SI_550,13.8343636363636,-13.0083467253681,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,43,NA
+SI_551,13.7313636363636,-14.6392018742199,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,53,NA
+SI_552,13.8483636363636,-13.4668995666256,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,50,NA
+SI_553,13.7293636363636,-14.2975724731718,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,50,NA
+SI_554,13.4353636363636,-15.0837964712777,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,50,NA
+SI_555,13.6283636363636,-13.7249119094256,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,57,NA
+SI_556,13.4713636363636,-13.6494458169666,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,52,NA
+SI_557,13.4613636363636,-14.1861673979293,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,48,NA
+SI_558,13.6743636363636,-13.7891297875177,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,49,NA
+SI_559,13.4013636363636,-14.4493319381459,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,55,NA
+SI_560,13.3513636363636,-14.0405019249698,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,50,NA
+SI_561,13.4473636363636,-14.1546448269014,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,57,NA
+SI_562,16.2643636363636,-14.0578086512129,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,53,NA
+SI_564,13.4323636363636,-14.2245303926473,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,47,NA
+SI_565,13.8353636363636,-14.4239948613744,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,48,NA
+SI_566,13.9843636363636,-11.8701921735507,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,47,NA
+SI_567,14.2343636363636,-13.1693359110607,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,95,NA
+SI_568,13.6173636363636,-14.9641795366097,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,90,NA
+SI_569,14.0843636363636,-12.4744013487309,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,92,NA
+SI_570,14.1453636363636,-13.9528041061059,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,91,NA
+SI_571,14.3553636363636,-11.8930640769591,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,91,NA
+SI_572,13.8723636363636,-13.3777824842781,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,90,NA
+SI_573,14.4751818181818,-11.915743293291,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,87,NA
+SI_574,13.7051818181818,-13.0230420832743,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,107,NA
+SI_575,13.8101818181818,-14.0142374487263,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,84,NA
+SI_576,14.3961818181818,-11.9764305490482,OCS_2022_general,Oyster Creek Samish,2022,general,shiner perch,87,NA
+SI_718,13.8118181818182,-16.1473640698636,DH_2022_general,Drayton Harbor,2022,general,shiner perch,104,NA
+SI_719,13.2818181818182,-14.7840305290405,DH_2022_general,Drayton Harbor,2022,general,shiner perch,64,NA
+SI_720,13.4118181818182,-14.8169190368467,DH_2022_general,Drayton Harbor,2022,general,shiner perch,65,NA
+SI_721,13.7808181818182,-14.4266333905384,DH_2022_general,Drayton Harbor,2022,general,shiner perch,74,NA
+SI_722,13.6428181818182,-15.2451964540334,DH_2022_general,Drayton Harbor,2022,general,shiner perch,75,NA
+SI_723,13.2528181818182,-14.7970037815111,DH_2022_general,Drayton Harbor,2022,general,shiner perch,80,NA
+SI_724,13.1438181818182,-14.8482870847386,DH_2022_general,Drayton Harbor,2022,general,shiner perch,73,NA
+SI_725,13.3848181818182,-14.8522988422233,DH_2022_general,Drayton Harbor,2022,general,shiner perch,67,NA
+SI_726,13.5688181818182,-14.7622085468582,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_727,14.2628181818182,-14.1259456816327,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_728,13.4208181818182,-14.1675648858073,DH_2022_general,Drayton Harbor,2022,general,shiner perch,68,NA
+SI_729,13.4018181818182,-14.9820004694457,DH_2022_general,Drayton Harbor,2022,general,shiner perch,57,NA
+SI_730,13.4648181818182,-14.6639343620008,DH_2022_general,Drayton Harbor,2022,general,shiner perch,69,NA
+SI_731,13.6408181818182,-14.5740133849678,DH_2022_general,Drayton Harbor,2022,general,shiner perch,67,NA
+SI_732,13.1798181818182,-16.28650769899,DH_2022_general,Drayton Harbor,2022,general,shiner perch,77,NA
+SI_733,13.8448181818182,-14.0650317424795,DH_2022_general,Drayton Harbor,2022,general,shiner perch,76,NA
+SI_734,14.4478181818182,-13.731489327933,DH_2022_general,Drayton Harbor,2022,general,shiner perch,69,NA
+SI_735,13.4478181818182,-13.1488111237444,DH_2022_general,Drayton Harbor,2022,general,shiner perch,68,NA
+SI_736,13.1838181818182,-14.0416411123164,DH_2022_general,Drayton Harbor,2022,general,shiner perch,67,NA
+SI_737,13.3658181818182,-12.8766894458041,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_738,14.2588181818182,-13.1971694751699,DH_2022_general,Drayton Harbor,2022,general,shiner perch,72,NA
+SI_739,13.2118181818182,-14.7978001858686,DH_2022_general,Drayton Harbor,2022,general,shiner perch,55,NA
+SI_740,13.8198181818182,-13.3779928853786,DH_2022_general,Drayton Harbor,2022,general,shiner perch,74,NA
+SI_741,14.1349090909091,-12.9255190999662,DH_2022_general,Drayton Harbor,2022,general,shiner perch,67,NA
+SI_742,13.7299090909091,-14.6314292351155,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_743,13.8929090909091,-12.6515837621612,DH_2022_general,Drayton Harbor,2022,general,shiner perch,69,NA
+SI_744,13.4889090909091,-14.2572560437134,DH_2022_general,Drayton Harbor,2022,general,shiner perch,72,NA
+SI_745,13.4299090909091,-13.3530536686281,DH_2022_general,Drayton Harbor,2022,general,shiner perch,65,NA
+SI_746,13.7469090909091,-14.8360599631377,DH_2022_general,Drayton Harbor,2022,general,shiner perch,60,NA
+SI_747,13.3009090909091,-12.8476050825796,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_748,13.9329090909091,-14.2081144389884,DH_2022_general,Drayton Harbor,2022,general,shiner perch,65,NA
+SI_749,13.8039090909091,-16.4709989286817,DH_2022_general,Drayton Harbor,2022,general,shiner perch,65,NA
+SI_750,13.4049090909091,-14.4015621632732,DH_2022_general,Drayton Harbor,2022,general,shiner perch,67,NA
+SI_751,13.4219090909091,-13.6443665238672,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_752,13.7609090909091,-13.7737680138221,DH_2022_general,Drayton Harbor,2022,general,shiner perch,72,NA
+SI_753,13.4949090909091,-14.2823939204359,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_754,13.7139090909091,-13.7845702904194,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_755,13.7349090909091,-15.0857187886415,DH_2022_general,Drayton Harbor,2022,general,shiner perch,80,NA
+SI_756,13.3609090909091,-13.0579596132319,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_757,13.7369090909091,-16.3885333400257,DH_2022_general,Drayton Harbor,2022,general,shiner perch,100,NA
+SI_758,13.6419090909091,-14.8613932541918,DH_2022_general,Drayton Harbor,2022,general,shiner perch,75,NA
+SI_759,14.0329090909091,-13.9440228778939,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_760,14.1059090909091,-14.3386964763377,DH_2022_general,Drayton Harbor,2022,general,shiner perch,112,NA
+SI_761,13.5479090909091,-14.1582181354266,DH_2022_general,Drayton Harbor,2022,general,shiner perch,64,NA
+SI_762,13.9249090909091,-13.8857391586193,DH_2022_general,Drayton Harbor,2022,general,shiner perch,72,NA
+SI_763,13.1419090909091,-14.8191499907301,DH_2022_general,Drayton Harbor,2022,general,shiner perch,62,NA
+SI_764,14.0029090909091,-14.212118311547,DH_2022_general,Drayton Harbor,2022,general,shiner perch,71,NA
+SI_765,13.2086363636364,-13.704478845212,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_766,13.0376363636364,-13.229113611059,DH_2022_general,Drayton Harbor,2022,general,shiner perch,75,NA
+SI_767,13.2456363636364,-13.0985535239921,DH_2022_general,Drayton Harbor,2022,general,shiner perch,66,NA
+SI_768,13.2176363636364,-13.0445862243777,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_769,13.3686363636364,-13.0879527805342,DH_2022_general,Drayton Harbor,2022,general,shiner perch,61,NA
+SI_770,13.6806363636364,-12.2450325165706,DH_2022_general,Drayton Harbor,2022,general,shiner perch,69,NA
+SI_771,13.8836363636364,-12.4371355014159,DH_2022_general,Drayton Harbor,2022,general,shiner perch,63,NA
+SI_772,13.1866363636364,-14.3077621537402,DH_2022_general,Drayton Harbor,2022,general,shiner perch,68,NA
+SI_773,13.4216363636364,-13.3156594966265,DH_2022_general,Drayton Harbor,2022,general,shiner perch,65,NA
+SI_774,13.5536363636364,-14.0854382258065,DH_2022_general,Drayton Harbor,2022,general,shiner perch,75,NA
+SI_775,13.7536363636364,-13.8145541706655,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_776,13.6796363636364,-14.4434278732797,DH_2022_general,Drayton Harbor,2022,general,shiner perch,70,NA
+SI_781,13.4886363636364,-13.9358979120845,DH_2022_general,Drayton Harbor,2022,general,shiner perch,62,NA
+SI_782,14.0736363636364,-12.9084967362965,DH_2022_general,Drayton Harbor,2022,general,shiner perch,63,NA
