@@ -21,7 +21,7 @@ library(here)
 
 
 isodat<-"SI_data_for_analysis.csv"
-isodat <- here("data/04_clean data", isodat)
+isodat <- here("data/03_clean data", isodat)
 isodat <- read_csv(isodat,
                 na = c("", "NA"))
 

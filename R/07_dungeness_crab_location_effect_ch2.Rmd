@@ -25,16 +25,16 @@ load data in
 ```{r load data in}
 
 #load_mix_data
-mix <- load_mix_data(filename=here("data", "04_clean data", "dungeness_crab.csv"),
+mix <- load_mix_data(filename=here("data", "03_clean data", "dungeness_crab.csv"),
 iso_names=c("d15N","d13C"), factors="location",fac_random=FALSE,
 fac_nested=FALSE, cont_effects=NULL)
 
 #load_source_data
-source <- load_source_data(filename=here("data", "04_clean data", "sources.csv"),
+source <- load_source_data(filename=here("data", "03_clean data", "sources.csv"),
 source_factors=NULL, conc_dep=FALSE, data_type = "raw", mix)
 
 #Load discrimination data
-discr <- load_discr_data(filename=here("data", "04_clean data", "TEF.csv"), mix)
+discr <- load_discr_data(filename=here("data", "03_clean data", "TEF.csv"), mix)
 
 ```
 

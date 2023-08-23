@@ -1,0 +1,21 @@
+sampleID,d15N,d13C,sampling_id,location,year,habitat_type,sample_category,length_mm,notes
+SI_01,11.2908181818182,-12.0888857719007,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,shore crab,NA,NA
+SI_02,11.4138181818182,-11.6278937743968,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,shore crab,NA,NA
+SI_03,10.8988181818182,-12.38298007827,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,shore crab,NA,NA
+SI_04,10.7928181818182,-11.8992193563368,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,shore crab,NA,NA
+SI_05,10.8598181818182,-11.2295572003811,OCS_2021_clamnet,Oyster Creek Samish,2021,clamnet,shore crab,NA,NA
+SI_22,11.7166363636364,-12.365152516826,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,shore crab,NA,NA
+SI_23,12.5466363636364,-13.1547897696398,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,shore crab,NA,NA
+SI_24,11.0986363636364,-12.1244177574202,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,shore crab,NA,NA
+SI_25,11.8706363636364,-11.9287349110202,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,shore crab,NA,NA
+SI_26,11.0386363636364,-10.6139280761406,OCS_2021_eelgrass,Oyster Creek Samish,2021,eelgrass,shore crab,NA,NA
+SI_39,11.1346363636364,-12.9855131444036,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,shore crab,NA,NA
+SI_40,10.4276363636364,-13.8615290963988,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,shore crab,NA,NA
+SI_41,10.2106363636364,-10.998484844684,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,shore crab,NA,NA
+SI_42,10.0186363636364,-10.4534266333884,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,shore crab,NA,NA
+SI_43,11.6626363636364,-10.8480316348169,OCS_2021_flipbags,Oyster Creek Samish,2021,flipbags,shore crab,NA,NA
+SI_56,11.0023636363636,-13.0269702081567,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,shore crab,NA,NA
+SI_57,11.6583636363636,-11.5261908867869,OCS_2021_mudflat,Oyster Creek Samish,2021,mudflat,shore crab,NA,NA
+SI_97,10.6716363636364,-15.2375943018285,DH_2021_flipbags,Drayton Harbor,2021,flipbags,shore crab,NA,NA
+SI_117,11.2902727272727,-14.5377582461161,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,shore crab,NA,NA
+SI_118,9.97327272727273,-15.0766088450486,DH_2021_eelgrass,Drayton Harbor,2021,eelgrass,shore crab,NA,NA

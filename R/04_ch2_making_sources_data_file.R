@@ -4,7 +4,7 @@ library(tidyverse)
 library(here)
 
 isodat<-"SI_data_for_analysis.csv"
-isodat <- here("data/04_clean data", isodat)
+isodat <- here("data/03_clean data", isodat)
 isodat <- read_csv(isodat,
                    na = c("", "NA"))
 
@@ -41,7 +41,7 @@ mutate(Sources = case_when(habitat_type=="flipbags" & sample_category=="bubble s
 
 # save source files in clean folder
 clean_file_name_data <- "sources.csv"
-clean_data_loc <- here("data/04_clean data", clean_file_name_data)
+clean_data_loc <- here("data/03_clean data", clean_file_name_data)
 sources %>% write_csv(clean_data_loc)
 
 
@@ -58,5 +58,5 @@ padilla_sources<-padilla_sources %>%
 
 # save padilla source files in clean folder
 clean_file_name_data <- "sources_padilla.csv"
-clean_data_loc <- here("data/04_clean data", clean_file_name_data)
+clean_data_loc <- here("data/03_clean data", clean_file_name_data)
 padilla_sources %>% write_csv(clean_data_loc)
