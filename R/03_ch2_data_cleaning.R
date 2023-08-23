@@ -334,7 +334,3 @@ clean_data_loc <- here("data/03_clean data", clean_file_name_data)
 flatfish %>% write_csv(clean_data_loc)
 
 
-clean_file_name_data <- "just_consortium_data.csv"
-clean_data_loc <- here("data/03_clean data", clean_file_name_data)
-consortium_data_with_no_iso %>% write_csv(clean_data_loc)
-
