@@ -450,7 +450,7 @@ colnames(simple.samples) <- c("sampleID", "sample.mass", "d15N", "d13C", "Amt.N"
 row.names(simple.samples) <- NULL
 
 if (save.file == "YES") {
-  write.csv(x = simple.samples, file = paste0("processed_data/", sequenceID, ".csv"))
+  write.csv(x = simple.samples, file = paste0("data/03_raw data/", sequenceID, ".csv"))
 }
 
 # Evaluation of Run ----------------------------------
@@ -470,7 +470,7 @@ mean.GA1.N <- mean(stdCN[stdCN$group == "GA1",]$d.15N.14N.1 - diff.N)
 # C
 mean.SAL.C <- mean(SAL.results$d13C.scale.corr.SAL)
 
-date <- as.character(as.Date(paste0("20", substr(RawEAfile, 10, 11), "-", substr(RawEAfile, 12, 13), "-", substr(RawEAfile, 14, 15))))
+date <- as.character(as.Date(paste0("20", substr(RawEAfile, 29, 30), "-", substr(RawEAfile, 31, 32), "-", substr(RawEAfile, 33, 34))))
 sample.no <- nrow(samples)
 seq.eval.row <- cbind(date, sequenceID, sample.no, round(prec.N, digits = 5), round(prec.C, digits = 5), round(accur.N, digits = 5), round(accur.C, digits = 5), round(mean.GA1.N, digits = 5), round(mean.SAL.C, digits = 5))
 
@@ -478,9 +478,9 @@ colnames(seq.eval.row) <- c("date", "sequenceID", "samples", "N.prec", "C.prec",
                              "C.accur", "GA1.N", "SAL.C")
 
 if (seq.eval == "YES") {
-  old.seq.eval <- read.csv(file = "Sequence_Evaluation.csv", header = TRUE)
+  old.seq.eval <- read.csv(file = "data/03_raw data/Sequence_Evaluation.csv", header = TRUE)
   new.seq.eval <- rbind(old.seq.eval, seq.eval.row)
-  write_csv(x = new.seq.eval, file = "Sequence_Evaluation.csv", append = FALSE)
+  write_csv(x = new.seq.eval, file = "data/03_raw data/Sequence_Evaluation.csv", append = FALSE)
 }
 
 } # end of function

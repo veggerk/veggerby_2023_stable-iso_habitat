@@ -25,16 +25,16 @@ load data in
 ```{r load data in}
 
 #load_mix_data
-mix <- load_mix_data(filename=here("data", "04_clean data", "stickleback.csv"),
+mix <- load_mix_data(filename=here("data", "03_clean data", "stickleback.csv"),
 iso_names=c("d15N","d13C"), factors=NULL,fac_random=NULL,
 fac_nested=NULL, cont_effects=NULL)
 
 #load_source_data
-source <- load_source_data(filename=here("data", "04_clean data", "sources.csv"),
+source <- load_source_data(filename=here("data", "03_clean data", "sources.csv"),
 source_factors=NULL, conc_dep=FALSE, data_type = "raw", mix)
 
 #Load discrimination data
-discr <- load_discr_data(filename=here("data", "04_clean data", "TEF.csv"), mix)
+discr <- load_discr_data(filename=here("data", "03_clean data", "TEF.csv"), mix)
 
 ```
 
@@ -348,7 +348,10 @@ if(!output_options[[3]]){   # if 'suppress posterior plots' is NOT checked
             ggplot2::scale_colour_brewer(palette = "Dark2") +
             ggplot2::xlab("Proportion of Diet") +
             ggplot2::ylab("Scaled Posterior Density") +
-            ggplot2::scale_x_continuous(expand = c(0, 0),limits = c(0,1.05)) +
+            ggplot2::scale_x_continuous(expand = c(0, 0),
+                                        limits = c(0,1), 
+                                        breaks = c(0,0.25,0.5,0.75,1.0),
+                                        labels = c("0.00","0.25","0.5","0.75","1.00   ")) +
             ggplot2::scale_y_continuous(expand = c(0, 0),limits = c(0,1.05)) +
             ggplot2::labs(title = my.title) +
             ggplot2::theme(legend.position=c(0.5,1), legend.justification=c(1,1),

@@ -1,0 +1,40 @@
+sampleID,d15N,d13C,sampling_id,location,year,habitat_type,sample_category,length_mm,notes
+SB_167,14.0051818181818,-15.7675495267165,OCS_2021_general,Oyster Creek Samish,2021,general,stickleback,62,NA
+SB_168,13.1761818181818,-16.1083072910926,OCS_2021_general,Oyster Creek Samish,2021,general,stickleback,72,NA
+SB_169,13.0361818181818,-16.7909590301087,OCS_2021_general,Oyster Creek Samish,2021,general,stickleback,70,NA
+SB_170,12.9821818181818,-18.1662577454188,OCS_2021_general,Oyster Creek Samish,2021,general,stickleback,76,lots of parasitic external copepods
+SB_171,13.5381818181818,-17.1028254430499,OCS_2021_general,Oyster Creek Samish,2021,general,stickleback,67,NA
+SI_199,14.1528181818182,-13.7111775024365,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,62,NA
+SI_200,13.6378181818182,-15.6519074188554,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,40,NA
+SI_204,13.6588181818182,-19.5455117294793,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,75,NA
+SI_205,13.7498181818182,-19.0570074958809,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,70,NA
+SI_206,12.6328181818182,-18.2828849334755,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,70,NA
+SI_207,12.9028181818182,-17.805615774585,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,35,NA
+SI_208,9.41981818181818,-26.925913528618,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,35,NA
+SI_209,12.7358181818182,-15.6650682957534,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,33,NA
+SI_530,14.3764545454545,-17.9247420376595,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,33,NA
+SI_531,14.1704545454545,-17.8310661052745,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,65,NA
+SI_532,13.5204545454545,-18.989445837746,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,70,NA
+SI_533,13.3944545454545,-18.1075842085558,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,65,NA
+SI_534,13.4284545454545,-18.1663307732517,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,68,NA
+SI_535,13.8194545454545,-18.819884203032,OCS_2022_general,Oyster Creek Samish,2022,general,stickleback,69,NA
+SI_634,14.1840909090909,-18.9682784750849,DH_2022_general,Drayton Harbor,2022,general,stickleback,65,NA
+SI_635,14.0040909090909,-17.9326065299361,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_636,13.2000909090909,-18.1630825945425,DH_2022_general,Drayton Harbor,2022,general,stickleback,75,NA
+SI_637,13.5290909090909,-17.7389793934229,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_638,13.5150909090909,-17.7692628805297,DH_2022_general,Drayton Harbor,2022,general,stickleback,72,NA
+SI_639,13.6880909090909,-17.8090336445765,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_640,13.1560909090909,-18.7048724121943,DH_2022_general,Drayton Harbor,2022,general,stickleback,73,NA
+SI_641,13.4090909090909,-18.78097033855,DH_2022_general,Drayton Harbor,2022,general,stickleback,77,NA
+SI_642,13.8800909090909,-18.213193730916,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_643,13.6170909090909,-17.6491874661399,DH_2022_general,Drayton Harbor,2022,general,stickleback,76,NA
+SI_644,13.8780909090909,-18.5709299109119,DH_2022_general,Drayton Harbor,2022,general,stickleback,67,NA
+SI_645,13.1526363636364,-17.5975160269454,DH_2022_general,Drayton Harbor,2022,general,stickleback,74,NA
+SI_646,13.2936363636364,-18.05466572339,DH_2022_general,Drayton Harbor,2022,general,stickleback,65,NA
+SI_647,13.9696363636364,-18.1921659831324,DH_2022_general,Drayton Harbor,2022,general,stickleback,65,NA
+SI_648,13.2096363636364,-18.3219848400458,DH_2022_general,Drayton Harbor,2022,general,stickleback,72,NA
+SI_649,13.6906363636364,-18.5384922042985,DH_2022_general,Drayton Harbor,2022,general,stickleback,47,NA
+SI_650,12.8266363636364,-18.7311234607221,DH_2022_general,Drayton Harbor,2022,general,stickleback,71,NA
+SI_651,13.5106363636364,-18.7350625944982,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA
+SI_652,13.4866363636364,-18.7921624797864,DH_2022_general,Drayton Harbor,2022,general,stickleback,73,NA
+SI_653,14.0556363636364,-18.3015671059664,DH_2022_general,Drayton Harbor,2022,general,stickleback,70,NA

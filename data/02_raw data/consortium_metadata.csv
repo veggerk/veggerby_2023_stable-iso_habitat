@@ -1,0 +1,86 @@
+Site ,Site code,Date,Lat,Long,Strata (OysterType-EelgrassType),Fish Species,Fish Species Code,Fish number,sampleID,Sample ID,Full Length (mm),Weight (g),Notes 
+Samish_Island,,7/27/21,,,Bottom-Sparse,Staghorn Sculpin,SS,77,SS_77,SA_IS_072721_SS_77,102,12.6489,"bottom oyster, sparse eelgrass"
+Samish_Island,,7/27/21,,,Bottom-Sparse,Staghorn Sculpin,SS,78,SS_78,SA_IS_072721_SS_78,119,16.8751,"bottom oyster, sparse eelgrass"
+Samish_Island,,7/27/21,,,Bottom-Sparse,Staghorn Sculpin,SS,79,SS_79,SA_IS_072721_SS_79,102,12.1421,"bottom oyster, sparse eelgrass"
+Samish_Island,,7/27/21,,,Bottom-Sparse,Staghorn Sculpin,SS,80,SS_80,SA_IS_072721_SS_80,113,17.3982,"bottom oyster, sparse eelgrass"
+Samish_Island,,7/27/21,,,Bottom-Sparse,Staghorn Sculpin,SS,81,SS_81,SA_IS_072721_SS_81,76,4.9736,"bottom oyster, sparse eelgrass"
+Samish_Island,,7/27/21,,,No-Dense,Shiner Perch,SP,82,SP_82,SA_IS_072721_SP_82,50,1.4099,"no oyster, dense eelgrass"
+Samish_Island,,7/27/21,,,No-Dense,Shiner Perch,SP,83,SP_83,SA_IS_072721_SP_83,58,2.2655,"no oyster, dense eelgrass"
+Samish_Island,,7/27/21,,,No-Dense,Shiner Perch,SP,84,SP_84,SA_IS_072721_SP_84,60,2.6411,"no oyster, dense eelgrass"
+Samish_Island,,7/27/21,,,No-Dense,Shiner Perch,SP,85,SP_85,SA_IS_072721_SP_85,61,2.8683,"no oyster, dense eelgrass"
+Samish_Island,,7/27/21,,,No-Dense,Shiner Perch,SP,86,SP_86,SA_IS_072721_SP_86,50,1.6818,"no oyster, dense eelgrass"
+Samish_Island,,7/27/21,,,No-Dense,Staghorn Sculpin,SS,87,SS_87,SA_IS_072721_SP_87,72,3.877,"no oyster, dense eelgrass"
+Samish_Island,,7/27/21,,,No-Dense,Staghorn Sculpin,SS,88,SS_88,SA_IS_072721_SP_88,94,8.2833,"no oyster, dense eelgrass"
+Samish_Island,,7/27/21,,,No-Dense,Staghorn Sculpin,SS,89,SS_89,SA_IS_072721_SP_89,105,11.9808,"no oyster, dense eelgrass"
+Samish_Island,,7/27/21,,,No-Dense,Staghorn Sculpin,SS,90,SS_90,SA_IS_072721_SP_90,109,12.8907,"no oyster, dense eelgrass"
+Samish_Island,,7/27/21,,,No-Dense,Staghorn Sculpin,SS,91,SS_91,SA_IS_072721_SP_91,116,17.7981,"no oyster, dense eelgrass"
+Samish_Island,,7/29/21,,,Bottom-No,Staghorn Sculpin,SS,92,SS_92,SA_IS_072921_SS_92,91,8.4516,"bottom oyster, no eelgrass"
+Samish_Island,,7/29/21,,,Bottom-No,Staghorn Sculpin,SS,93,SS_93,SA_IS_072921_SS_93,75,4.4449,"bottom oyster, no eelgrass"
+Samish_Island,,7/29/21,,,Bottom-No,Staghorn Sculpin,SS,94,SS_94,SA_IS_072921_SS_94,82,5.9458,"bottom oyster, no eelgrass"
+Samish_Island,,7/29/21,,,Bottom-No,Staghorn Sculpin,SS,95,SS_95,SA_IS_072921_SS_95,80,5.6876,"bottom oyster, no eelgrass"
+Samish_Island,,7/29/21,,,Bottom-No,Staghorn Sculpin,SS,96,SS_96,SA_IS_072921_SS_96,103,12.2103,"bottom oyster, no eelgrass"
+Samish_Island,,7/27/21,,,No_Dense,Starry Flounder,SF,115,SF_115,SA_IS_072721_SF_115,81,6.00019,"no oyster, dense eelgrass"
+Samish_Island,,7/27/21,,,No_Dense,Starry Flounder,SF,116,SF_116,SA_IS_072721_SF_116,69,3.5752,"no oyster, dense eelgrass - stomach burst, took stomach and whole gut"
+Samish_Island,,7/27/21,,,No_Dense,Starry Flounder,SF,117,SF_117,SA_IS_072721_SF_117,61,2.7283,"no oyster, dense eelgrass - took stomach and whole gut"
+Samish_Island,,7/27/21,,,No_Dense,Starry Flounder,SF,118,SF_118,SA_IS_072721_SF_118,70,3.634,"no oyster, dense eelgrass - took stomach and whole gut"
+Samish_Island,,7/27/21,,,No_Dense,Starry Flounder,SF,119,SF_119,SA_IS_072721_SF_119,61,2.6179,"no oyster, dense eelgrass - took stomach and whole gut"
+Samish_Island,,7/27/21,,,Bottom-Sparse,Stickleback,SB,167,SB_167,SA_IS_072721_SB_167,62,2.2532,
+Samish_Island,,7/27/21,,,Bottom-Sparse,Stickleback,SB,168,SB_168,SA_IS_072721_SB_168,72,3.0388,
+Samish_Island,,7/27/21,,,Bottom-Sparse,Stickleback,SB,169,SB_169,SA_IS_072721_SB_169,70,2.7625,
+Samish_Island,,7/27/21,,,Bottom-Sparse,Stickleback,SB,170,SB_170,SA_IS_072721_SB_170,76,3.3849,lots of parasitic external copepods
+Samish_Island,,7/27/21,,,Bottom-Sparse,Stickleback,SB,171,SB_171,SA_IS_072721_SB_171,67,2.7464,
+Samish_Island,,7/27/21,,,No-Dense,Stickleback,SB,302,SB_302,SA_IS_0727221_SB_302,26,0.116,"No oyster, Dense eelgrass whole fish"
+Samish_Island,,7/27/21,,,No-Dense,Stickleback,SB,303,SB_303,SA_IS_0727221_SB_303,33,0.231,"No oyster, Dense eelgrass whole fish"
+Samish_Island,,7/27/21,,,No-Dense,Stickleback,SB,304,SB_304,SA_IS_0727221_SB_304,29,0.1333,"No oyster, Dense eelgrass whole fish"
+Samish_Island,,7/27/21,,,No-Dense,Stickleback,SB,305,SB_305,SA_IS_0727221_SB_305,31,0.1904,"No oyster, Dense eelgrass whole fish"
+Samish_Island,,7/27/21,,,No-Dense,Stickleback,SB,306,SB_306,SA_IS_0727221_SB_306,22,0.0585,"No oyster, Dense eelgrass whole fish"
+Samish_Island,,7/27/21,,,Flip-Dense,Stickleback,SB,309,SB_309,SA_IS_072721_SB_309,22,0.0656,
+Samish_Island,,7/27/21,,,Flip-Dense,Stickleback,SB,310,SB_310,SA_IS_072721_SB_310,21,0.0647,
+Samish_Island,,7/27/21,,,Flip-Dense,Stickleback,SB,311,SB_311,SA_IS_072721_SB_311,23,0.0838,
+Samish_Island,,7/27/21,,,Flip-Dense,Stickleback,SB,312,SB_312,SA_IS_072721_SB_312,21,0.047,
+Samish_Plant,,8/2/21,,,Bottom-Dense,Staghorn Sculpin,SS,97,SS_97,SA_PL_080221_SS_97,78,5.3157,"bottom oyster, dense eelgrass"
+Samish_Plant,,8/2/21,,,Bottom-Dense,Staghorn Sculpin,SS,98,SS_98,SA_PL_080221_SS_98,105,13.2912,"bottom oyster, dense eelgrass"
+Samish_Plant,,8/2/21,,,Bottom-Dense,Staghorn Sculpin,SS,99,SS_99,SA_PL_080221_SS_99,123,21.6279,"bottom oyster, dense eelgrass"
+Samish_Plant,,8/2/21,,,Bottom-Dense,Shiner Perch,SP,100,SP_100,SA_PL_080221_SP_100,70,4.0357,"bottom oyster, dense eelgrass  - fins on fish kind of torn up"
+Samish_Plant,,8/2/21,,,Bottom-Dense,Shiner Perch,SP,101,SP_101,SA_PL_080221_SP_101,62,3.0144,"bottom oyster, dense eelgrass"
+Samish_Plant,,8/2/21,,,Bottom-Dense,Shiner Perch,SP,102,SP_102,SA_PL_080221_SP_102,57,1.8891,"bottom oyster, dense eelgrass - guts very goopy during dissection"
+Samish_Plant,,8/2/21,,,Bottom-Dense,Shiner Perch,SP,103,SP_103,SA_PL_080221_SP_103,58,2.3117,"bottom oyster, dense eelgrass - fins torn, guts goopy"
+Samish_Plant,,8/2/21,,,Bottom-Dense,Shiner Perch,SP,104,SP_104,SA_PL_080221_SP_104,65,2.8957,"bottom oyster, dense eelgrass - guts goopy"
+Samish_Plant,,8/1/21,,,No-No,Staghorn Sculpin,SS,105,SS_105,SA_PL_080121_SS_105,79,5.0966,"no oyster, no eelgrass"
+Samish_Plant,,8/1/21,,,No-No,Staghorn Sculpin,SS,106,SS_106,SA_PL_080121_SS_106,72,3.8034,"no oyster, no eelgrass"
+Samish_Plant,,8/1/21,,,No-No,Staghorn Sculpin,SS,107,SS_107,SA_PL_080121_SS_107,79,4.9006,"no oyster, no eelgrass (tissue samples left in cooler overnight, cold but not frozen)"
+Samish_Plant,,8/1/21,,,No-No,Staghorn Sculpin,SS,108,SS_108,SA_PL_080121_SS_108,80,5.1081,"no oyster, no eelgrass (tissue samples left in cooler overnight, cold but not frozen)"
+Samish_Plant,,8/1/21,,,No-No,Staghorn Sculpin,SS,109,SS_109,SA_PL_080121_SS_109,98,10.27,"no oyster, no eelgrass"
+Samish_Plant,,8/1/21,,,No-No,Shiner Perch,SP,110,SP_110,SA_PL_080121_SP_110,66,3.1871,"no oyster, no eelgrass - guts goopy"
+Samish_Plant,,8/1/21,,,No-No,Shiner Perch,SP,111,SP_111,SA_PL_080121_SP_111,53,1.5253,"no oyster, no eelgrass - guts goopy"
+Samish_Plant,,8/1/21,,,No-No,Shiner Perch,SP,112,SP_112,SA_PL_080121_SP_112,73,5.0166,"no oyster, no eelgrass - guts goopy"
+Samish_Plant,,8/1/21,,,No-No,Shiner Perch,SP,113,SP_113,SA_PL_080121_SP_113,58,2.0307,"no oyster, no eelgrass - guts goopy"
+Samish_Plant,,8/1/21,,,No-No,Shiner Perch,SP,114,SP_114,SA_PL_080121_SP_114,55,2.0398,"no oyster, no eelgrass - guts goopy"
+Samish_Plant,,8/2/21,,,No-Dense,Starry Flounder,SF,120,SF_120,SA_PL_080221_SF_120,83,6.9709,"no oyster, dense eelgrass (label says ""dense-no"", but assuming they mean ""no-dense"") - goopy gut"
+Samish_Plant,,8/2/21,,,No-Dense,Starry Flounder,SF,121,SF_121,SA_PL_080221_SF_121,83,5.9889,"no oyster, dense eelgrass (label says ""dense-no"", but assuming they mean ""no-dense"") - goopy gut"
+Samish_Plant,,8/2/21,,,No-Dense,Starry Flounder,SF,122,SF_122,SA_PL_080221_SF_122,84,6.6605,"no oyster, dense eelgrass (label says ""dense-no"", but assuming they mean ""no-dense"") - goopy gut"
+Samish_Plant,,8/2/21,,,No-Dense,Starry Flounder,SF,123,SF_123,SA_PL_080221_SF_123,84,4.8292,"no oyster, dense eelgrass (label says ""dense-no"", but assuming they mean ""no-dense"") - goopy gut"
+Samish_Plant,,8/2/21,,,No-Dense,Starry Flounder,SF,124,SF_124,SA_PL_080221_SF_124,68,3.4496,"no oyster, dense eelgrass (label says ""dense-no"", but assuming they mean ""no-dense"") - goopy gut"
+Samish_Plant,,8/2/21,,,Bottom-Dense,Starry Flounder,SF,172,SF_172,SA_PL_080221_SF_172,73,4.1763,
+Samish_Plant,,8/2/21,,,Bottom-Dense,Starry Flounder,SF,173,SF_173,SA_PL_080221_SF_173,93,10.1091,
+Samish_Plant,,8/2/21,,,Bottom-Dense,Starry Flounder,SF,174,SF_174,SA_PL_080221_SF_174,77,5.1134,
+Samish_Plant,,8/2/21,,,Bottom-Dense,Starry Flounder,SF,175,SF_175,SA_PL_080221_SF_175,80,6.0083,
+Samish_Plant,,8/2/21,,,Bottom-Dense,Starry Flounder,SF,176,SF_176,SA_PL_080221_SF_176,,,
+Samish_Plant,,8/2/21,,,Bottom-Dense,Shiner Perch,SP,177,SP_177,SA_PL_080221_SP_177,52,1.4089,gut in bad condition
+Samish_Plant,,8/2/21,,,Bottom-Dense,Shiner Perch,SP,178,SP_178,SA_PL_080221_SP_178,60,2.5425,gut in bad condition
+Samish_Plant,,8/2/21,,,No-Dense,Shiner Perch,SP,179,SP_179,SA_PL_080221_SP_179,56,2.155,
+Samish_Plant,,8/2/21,,,No-Dense,Shiner Perch,SP,180,SP_180,SA_PL_080221_SP_180,49,1.1473,
+Samish_Plant,,8/2/21,,,No-Dense,Shiner Perch,SP,181,SP_181,SA_PL_080221_SP_181,80,6.0974,
+Samish_Plant,,8/2/21,,,No-Dense,Shiner Perch,SP,182,SP_182,SA_PL_080221_SP_182,60,2.4251,
+Samish_Plant,,8/2/21,,,No-Sparse,Shiner Perch,SP,183,SP_183,SA_PL_080221_SP_183,54,1.901,
+Samish_Plant,,8/2/21,,,No-Sparse,Shiner Perch,SP,184,SP_184,SA_PL_080221_SP_184,55,2.0062,
+Samish_Plant,,8/2/21,,,No-Sparse,Shiner Perch,SP,185,SP_185,SA_PL_080221_SP_185,62,2.8398,
+Samish_Plant,,8/2/21,,,No-Sparse,Shiner Perch,SP,186,SP_186,SA_PL_080221_SP_186,55,2.0784,
+Samish_Plant,,8/2/21,,,No-Sparse,Shiner Perch,SP,187,SP_187,SA_PL_080221_SP_187,54,5.827,
+Samish_Plant,,8/2/21,,,No-Sparse,Shiner Perch,SP,188,SP_188,SA_PL_080221_SP_188,77,5.5304,
+Samish_Plant,,8/2/21,,,No-Sparse,Starry Flounder,SF,189,SF_189,SA_PL_080221_SF_189,79,6.2209,
+Samish_Plant,,8/2/21,,,No-Sparse,Starry Flounder,SF,190,SF_190,SA_PL_080221_SF_190,74,4.424,
+Samish_Plant,,8/2/21,,,No-Sparse,Starry Flounder,SF,191,SF_191,SA_PL_080221_SF_191,94,9.6319,
+Samish_Plant,,8/2/21,,,No-Sparse,Staghorn Sculpin,SS,192,SS_192,SA_PL_080221_SS_192,100,13.9094,
+Samish_Plant,,8/2/21,,,No-Sparse,Stickleback,SB,307,SB_307,SA_PL_080221_SB_307,22,0.0515,
+Samish_Plant,,8/2/21,,,No-Sparse,Stickleback,SB,308,SB_308,SA_PL_080221_SB_308,16,0.0155,

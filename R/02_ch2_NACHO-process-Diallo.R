@@ -11,9 +11,9 @@ library(gridExtra)
 # load function from function script (just run the entire thing)
 
 # then execute the function with arguments
-NACHO.data.process(RawEAfile = "data/02_mass_spec_raw_files/221208_Veggerby_EA_Run36.csv", 
+NACHO.data.process(RawEAfile = "data/01_mass_spec_raw_files/221209_Veggerby_EA_38.csv", 
                                 # you have to re-save the raw data file as a .csv file
-                   sequenceID = "set36", 
+                   sequenceID = "set38", 
                    save.file = "YES", 
                    plot = "YES", 
                    seq.eval = "YES")
