@@ -26,7 +26,7 @@ metadata explaining the column names and data source is located in: `metadata.xl
 
 The MixSIAR user manual is: `MixSIAR_user_manual.pdf`
 
-Each .rdm file in the `\R` folder is a separate mixing model for one species and effect combination. The initial data cleaning and organizing r scripts are labeled 01_ through 05_ in the order they are used. Map making script is labeled `06_ch2_draw_PS_map_fig_1`. Subsequent .rmd files are each for individual models.
+Each .rdm file in the `\R` folder is a separate mixing model for one species and effect combination. The initial data cleaning and organizing r scripts are labeled 01_ through 05_ in the order they are used. Map making script is labeled `06_ch2_draw_PS_map_fig_1`. Subsequent .rmd files are each for individual models. `21_making_multiplot` script is used for combining individual posterior plots into one multi-plot.
 
 
 
