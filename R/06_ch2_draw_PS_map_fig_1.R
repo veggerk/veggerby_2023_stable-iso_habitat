@@ -70,8 +70,8 @@ puget_sound<-ggplot(usa_spdf_fort, aes(x = long, y = lat, group = group)) +
            size = 2,
            color = "#e41a1c")+ 
   annotate("text", 
-           label = "Drayton Harbor site", 
-           x = -122.44, 
+           label = "low farm activity site", 
+           x = -122.48, 
            y = 48.97,
            size = 5,
            color = "black")+
@@ -86,20 +86,20 @@ puget_sound<-ggplot(usa_spdf_fort, aes(x = long, y = lat, group = group)) +
            size = 2,
            color = "#e41a1c")+ 
   annotate("text", 
-           label = "Samish Bay site", 
-           x = -122.18, 
+           label = "high farm activity site", 
+           x = -122.17, 
            y = 48.61,
            size = 5,
            color = "black")+
   annotate("text", 
-           label = "Padilla Bay site", 
-           x = -122.25, 
+           label = "no farm activity site", 
+           x = -122.24, 
            y = 48.5,
            size = 5,
            color = "black")+
   annotate("text", 
            label = "Seattle, WA",
-           x = -122.13, 
+           x = -122.16, 
            y = 47.6,
            size = 5,
            color = "black")+ 
@@ -129,7 +129,7 @@ patch<-wrap_elements(puget_sound)+
   theme(plot.tag.position = c(0.35, 0) ,
         plot.tag = element_text(size = 14, hjust = 0, vjust = -1))
 
-patch
+
 
 # make custom bbox to show where columbia river map is in relation to north america
 ps_bbox <- c(
@@ -169,7 +169,7 @@ final_patch <- patch + inset_element(large_map_usa, left = -1.2, bottom = 0.2, r
 ## save the combined file as figure 1
 ggsave(filename = file.path(fig_dir, "01_fig_PS_map.png"), 
        plot = final_patch,
-       width = 11, 
-       height = 8,
+       width = 13, 
+       height = 10,
        dpi = 300)
 
