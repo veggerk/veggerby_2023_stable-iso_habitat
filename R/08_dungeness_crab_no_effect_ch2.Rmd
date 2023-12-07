@@ -333,7 +333,7 @@ if(!output_options[[3]]){   # if 'suppress posterior plots' is NOT checked
        df$sources <- factor(df$sources, 
                                   levels = c("eelgrass habitat",
                                              "farm habitat",
-                                             "pelagic"))
+                                             "pelagic habitat"))
         
 
         

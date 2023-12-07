@@ -21,5 +21,5 @@ posterior_plots<-(wrap_elements(shiner_perch) + wrap_elements(stickleback)) /
 
 # save
 ggsave(plot = posterior_plots, 
-       filename = "figures/figure_2.pdf", width = 7, height = 7.5, units = "in")
+       filename = "figures/figure_2.jpeg", width = 7, height = 7.5, units = "in")
 
